@@ -1,0 +1,2355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<!--123--><AD_PROCESS_PARA>
+<!--123-->  <AD_PROCESS_PARA_ID><![CDATA[123]]></AD_PROCESS_PARA_ID>
+<!--123-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--123-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--123-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--123-->  <NAME><![CDATA[Product Search Key]]></NAME>
+<!--123-->  <DESCRIPTION><![CDATA[A fast method for finding a particular product.]]></DESCRIPTION>
+<!--123-->  <HELP><![CDATA[A product search key allows for a fast method of finding a particular product. ]]></HELP>
+<!--123-->  <AD_PROCESS_ID><![CDATA[105]]></AD_PROCESS_ID>
+<!--123-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--123-->  <AD_REFERENCE_ID><![CDATA[10]]></AD_REFERENCE_ID>
+<!--123-->  <COLUMNNAME><![CDATA[ProductValue]]></COLUMNNAME>
+<!--123-->  <ISCENTRALLYMAINTAINED><![CDATA[N]]></ISCENTRALLYMAINTAINED>
+<!--123-->  <FIELDLENGTH><![CDATA[15]]></FIELDLENGTH>
+<!--123-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--123-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--123-->  <DEFAULTVALUE><![CDATA[%]]></DEFAULTVALUE>
+<!--123-->  <AD_ELEMENT_ID><![CDATA[620]]></AD_ELEMENT_ID>
+<!--123--></AD_PROCESS_PARA>
+
+<!--124--><AD_PROCESS_PARA>
+<!--124-->  <AD_PROCESS_PARA_ID><![CDATA[124]]></AD_PROCESS_PARA_ID>
+<!--124-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--124-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--124-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--124-->  <NAME><![CDATA[Inventory Quantity]]></NAME>
+<!--124-->  <AD_PROCESS_ID><![CDATA[105]]></AD_PROCESS_ID>
+<!--124-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--124-->  <AD_REFERENCE_ID><![CDATA[17]]></AD_REFERENCE_ID>
+<!--124-->  <AD_REFERENCE_VALUE_ID><![CDATA[212]]></AD_REFERENCE_VALUE_ID>
+<!--124-->  <COLUMNNAME><![CDATA[QtyRange]]></COLUMNNAME>
+<!--124-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--124-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--124-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--124-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--124-->  <DEFAULTVALUE><![CDATA[N]]></DEFAULTVALUE>
+<!--124-->  <AD_ELEMENT_ID><![CDATA[1676]]></AD_ELEMENT_ID>
+<!--124--></AD_PROCESS_PARA>
+
+<!--125--><AD_PROCESS_PARA>
+<!--125-->  <AD_PROCESS_PARA_ID><![CDATA[125]]></AD_PROCESS_PARA_ID>
+<!--125-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--125-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--125-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--125-->  <NAME><![CDATA[Storage Bin]]></NAME>
+<!--125-->  <DESCRIPTION><![CDATA[A set of coordinates (x, y, z) which help locate an item in a warehouse.]]></DESCRIPTION>
+<!--125-->  <HELP><![CDATA[The Locator ID indicates where in a Warehouse a product is located.]]></HELP>
+<!--125-->  <AD_PROCESS_ID><![CDATA[105]]></AD_PROCESS_ID>
+<!--125-->  <SEQNO><![CDATA[5]]></SEQNO>
+<!--125-->  <AD_REFERENCE_ID><![CDATA[30]]></AD_REFERENCE_ID>
+<!--125-->  <AD_REFERENCE_VALUE_ID><![CDATA[31]]></AD_REFERENCE_VALUE_ID>
+<!--125-->  <COLUMNNAME><![CDATA[M_Locator_ID]]></COLUMNNAME>
+<!--125-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--125-->  <FIELDLENGTH><![CDATA[13]]></FIELDLENGTH>
+<!--125-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--125-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--125-->  <AD_ELEMENT_ID><![CDATA[448]]></AD_ELEMENT_ID>
+<!--125--></AD_PROCESS_PARA>
+
+<!--140--><AD_PROCESS_PARA>
+<!--140-->  <AD_PROCESS_PARA_ID><![CDATA[140]]></AD_PROCESS_PARA_ID>
+<!--140-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--140-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--140-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--140-->  <NAME><![CDATA[Tab]]></NAME>
+<!--140-->  <DESCRIPTION><![CDATA[An indication that a tab is displayed within a window.]]></DESCRIPTION>
+<!--140-->  <HELP><![CDATA[The Tab indicates a tab that displays within a window.]]></HELP>
+<!--140-->  <AD_PROCESS_ID><![CDATA[114]]></AD_PROCESS_ID>
+<!--140-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--140-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--140-->  <COLUMNNAME><![CDATA[AD_Tab_ID]]></COLUMNNAME>
+<!--140-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--140-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--140-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--140-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--140-->  <AD_ELEMENT_ID><![CDATA[125]]></AD_ELEMENT_ID>
+<!--140--></AD_PROCESS_PARA>
+
+<!--141--><AD_PROCESS_PARA>
+<!--141-->  <AD_PROCESS_PARA_ID><![CDATA[141]]></AD_PROCESS_PARA_ID>
+<!--141-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--141-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--141-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--141-->  <NAME><![CDATA[Window]]></NAME>
+<!--141-->  <DESCRIPTION><![CDATA[A work area which can be used to create, view, edit, and process a record.]]></DESCRIPTION>
+<!--141-->  <HELP><![CDATA[The Window field identifies a unique Window in the system.]]></HELP>
+<!--141-->  <AD_PROCESS_ID><![CDATA[113]]></AD_PROCESS_ID>
+<!--141-->  <SEQNO><![CDATA[0]]></SEQNO>
+<!--141-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--141-->  <COLUMNNAME><![CDATA[AD_Window_ID]]></COLUMNNAME>
+<!--141-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--141-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--141-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--141-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--141-->  <AD_ELEMENT_ID><![CDATA[143]]></AD_ELEMENT_ID>
+<!--141--></AD_PROCESS_PARA>
+
+<!--155--><AD_PROCESS_PARA>
+<!--155-->  <AD_PROCESS_PARA_ID><![CDATA[155]]></AD_PROCESS_PARA_ID>
+<!--155-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--155-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--155-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--155-->  <NAME><![CDATA[Delete old/existing records]]></NAME>
+<!--155-->  <DESCRIPTION><![CDATA[Otherwise records will be added]]></DESCRIPTION>
+<!--155-->  <HELP><![CDATA[Otherwise records will be added]]></HELP>
+<!--155-->  <AD_PROCESS_ID><![CDATA[103]]></AD_PROCESS_ID>
+<!--155-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--155-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--155-->  <COLUMNNAME><![CDATA[DeleteOld]]></COLUMNNAME>
+<!--155-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--155-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--155-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--155-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--155-->  <DEFAULTVALUE><![CDATA[N]]></DEFAULTVALUE>
+<!--155-->  <AD_ELEMENT_ID><![CDATA[1669]]></AD_ELEMENT_ID>
+<!--155--></AD_PROCESS_PARA>
+
+<!--156--><AD_PROCESS_PARA>
+<!--156-->  <AD_PROCESS_PARA_ID><![CDATA[156]]></AD_PROCESS_PARA_ID>
+<!--156-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--156-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--156-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--156-->  <NAME><![CDATA[Product quantity must be on stock]]></NAME>
+<!--156-->  <DESCRIPTION><![CDATA[If not sufficient on stock in the warehouse, the BOM is not produced]]></DESCRIPTION>
+<!--156-->  <HELP><![CDATA[If not sufficient on stock in the warehouse, the BOM is not produced]]></HELP>
+<!--156-->  <AD_PROCESS_ID><![CDATA[137]]></AD_PROCESS_ID>
+<!--156-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--156-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--156-->  <COLUMNNAME><![CDATA[MustBeStocked]]></COLUMNNAME>
+<!--156-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--156-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--156-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--156-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--156-->  <DEFAULTVALUE><![CDATA[N]]></DEFAULTVALUE>
+<!--156-->  <AD_ELEMENT_ID><![CDATA[1672]]></AD_ELEMENT_ID>
+<!--156--></AD_PROCESS_PARA>
+
+<!--157--><AD_PROCESS_PARA>
+<!--157-->  <AD_PROCESS_PARA_ID><![CDATA[157]]></AD_PROCESS_PARA_ID>
+<!--157-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--157-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--157-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--157-->  <NAME><![CDATA[Product Category]]></NAME>
+<!--157-->  <DESCRIPTION><![CDATA[A classification of items based on similar characteristics or attributes.]]></DESCRIPTION>
+<!--157-->  <HELP><![CDATA[Identifies the category which this product belongs to.  Product categories are used for pricing.]]></HELP>
+<!--157-->  <AD_PROCESS_ID><![CDATA[105]]></AD_PROCESS_ID>
+<!--157-->  <SEQNO><![CDATA[15]]></SEQNO>
+<!--157-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--157-->  <COLUMNNAME><![CDATA[M_Product_Category_ID]]></COLUMNNAME>
+<!--157-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--157-->  <FIELDLENGTH><![CDATA[6]]></FIELDLENGTH>
+<!--157-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--157-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--157-->  <DEFAULTVALUE><![CDATA[0]]></DEFAULTVALUE>
+<!--157-->  <AD_ELEMENT_ID><![CDATA[453]]></AD_ELEMENT_ID>
+<!--157--></AD_PROCESS_PARA>
+
+<!--158--><AD_PROCESS_PARA>
+<!--158-->  <AD_PROCESS_PARA_ID><![CDATA[158]]></AD_PROCESS_PARA_ID>
+<!--158-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--158-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--158-->  <ISACTIVE><![CDATA[N]]></ISACTIVE>
+<!--158-->  <NAME><![CDATA[Warehouse]]></NAME>
+<!--158-->  <DESCRIPTION><![CDATA[The location where products arrive to or are sent from.]]></DESCRIPTION>
+<!--158-->  <HELP><![CDATA[The Warehouse identifies a unique Warehouse where products are stored or Services are provided.]]></HELP>
+<!--158-->  <AD_PROCESS_ID><![CDATA[105]]></AD_PROCESS_ID>
+<!--158-->  <SEQNO><![CDATA[2]]></SEQNO>
+<!--158-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--158-->  <COLUMNNAME><![CDATA[M_Warehouse_ID]]></COLUMNNAME>
+<!--158-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--158-->  <FIELDLENGTH><![CDATA[5]]></FIELDLENGTH>
+<!--158-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--158-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--158-->  <DEFAULTVALUE><![CDATA[@M_Warehouse_ID@]]></DEFAULTVALUE>
+<!--158-->  <AD_ELEMENT_ID><![CDATA[459]]></AD_ELEMENT_ID>
+<!--158--></AD_PROCESS_PARA>
+
+<!--164--><AD_PROCESS_PARA>
+<!--164-->  <AD_PROCESS_PARA_ID><![CDATA[164]]></AD_PROCESS_PARA_ID>
+<!--164-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--164-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--164-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--164-->  <NAME><![CDATA[Client]]></NAME>
+<!--164-->  <DESCRIPTION><![CDATA[Client for this installation.]]></DESCRIPTION>
+<!--164-->  <HELP><![CDATA[A Client is a company or a legal entity. You cannot share data between Clients.]]></HELP>
+<!--164-->  <AD_PROCESS_ID><![CDATA[108]]></AD_PROCESS_ID>
+<!--164-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--164-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--164-->  <AD_VAL_RULE_ID><![CDATA[129]]></AD_VAL_RULE_ID>
+<!--164-->  <COLUMNNAME><![CDATA[AD_Client_ID]]></COLUMNNAME>
+<!--164-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--164-->  <FIELDLENGTH><![CDATA[6]]></FIELDLENGTH>
+<!--164-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--164-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--164-->  <AD_ELEMENT_ID><![CDATA[102]]></AD_ELEMENT_ID>
+<!--164--></AD_PROCESS_PARA>
+
+<!--165--><AD_PROCESS_PARA>
+<!--165-->  <AD_PROCESS_PARA_ID><![CDATA[165]]></AD_PROCESS_PARA_ID>
+<!--165-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--165-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--165-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--165-->  <NAME><![CDATA[Business Partner Category]]></NAME>
+<!--165-->  <DESCRIPTION><![CDATA[A classification of business partners based on defined similarities.]]></DESCRIPTION>
+<!--165-->  <HELP><![CDATA[A way of grouping business partners together for classification and reporting purposes. Provides a method of defining certain defaults to be used when opening new business partners.]]></HELP>
+<!--165-->  <AD_PROCESS_ID><![CDATA[112]]></AD_PROCESS_ID>
+<!--165-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--165-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--165-->  <COLUMNNAME><![CDATA[C_BP_Group_ID]]></COLUMNNAME>
+<!--165-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--165-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--165-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--165-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--165-->  <DEFAULTVALUE><![CDATA[@C_BP_Group_ID@]]></DEFAULTVALUE>
+<!--165-->  <AD_ELEMENT_ID><![CDATA[1383]]></AD_ELEMENT_ID>
+<!--165--></AD_PROCESS_PARA>
+
+<!--166--><AD_PROCESS_PARA>
+<!--166-->  <AD_PROCESS_PARA_ID><![CDATA[166]]></AD_PROCESS_PARA_ID>
+<!--166-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--166-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--166-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--166-->  <NAME><![CDATA[Product Category]]></NAME>
+<!--166-->  <DESCRIPTION><![CDATA[A classification of items based on similar characteristics or attributes.]]></DESCRIPTION>
+<!--166-->  <HELP><![CDATA[Identifies the category which this product belongs to.  Product categories are used for pricing.]]></HELP>
+<!--166-->  <AD_PROCESS_ID><![CDATA[140]]></AD_PROCESS_ID>
+<!--166-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--166-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--166-->  <COLUMNNAME><![CDATA[M_Product_Category_ID]]></COLUMNNAME>
+<!--166-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--166-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--166-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--166-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--166-->  <DEFAULTVALUE><![CDATA[@M_Product_Category_ID@]]></DEFAULTVALUE>
+<!--166-->  <AD_ELEMENT_ID><![CDATA[453]]></AD_ELEMENT_ID>
+<!--166--></AD_PROCESS_PARA>
+
+<!--169--><AD_PROCESS_PARA>
+<!--169-->  <AD_PROCESS_PARA_ID><![CDATA[169]]></AD_PROCESS_PARA_ID>
+<!--169-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--169-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--169-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--169-->  <NAME><![CDATA[Storage Bin]]></NAME>
+<!--169-->  <DESCRIPTION><![CDATA[A set of coordinates (x, y, z) which help locate an item in a warehouse.]]></DESCRIPTION>
+<!--169-->  <HELP><![CDATA[The Locator ID indicates where in a Warehouse a product is located.]]></HELP>
+<!--169-->  <AD_PROCESS_ID><![CDATA[142]]></AD_PROCESS_ID>
+<!--169-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--169-->  <AD_REFERENCE_ID><![CDATA[30]]></AD_REFERENCE_ID>
+<!--169-->  <AD_REFERENCE_VALUE_ID><![CDATA[31]]></AD_REFERENCE_VALUE_ID>
+<!--169-->  <COLUMNNAME><![CDATA[M_Locator_ID]]></COLUMNNAME>
+<!--169-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--169-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--169-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--169-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--169-->  <AD_ELEMENT_ID><![CDATA[448]]></AD_ELEMENT_ID>
+<!--169--></AD_PROCESS_PARA>
+
+<!--183--><AD_PROCESS_PARA>
+<!--183-->  <AD_PROCESS_PARA_ID><![CDATA[183]]></AD_PROCESS_PARA_ID>
+<!--183-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--183-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--183-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--183-->  <NAME><![CDATA[Price List Version]]></NAME>
+<!--183-->  <DESCRIPTION><![CDATA[A price list with a specified validity range.]]></DESCRIPTION>
+<!--183-->  <HELP><![CDATA[Each Price List can have multiple versions.  The most common use is to indicate the dates that a Price List is valid for.]]></HELP>
+<!--183-->  <AD_PROCESS_ID><![CDATA[154]]></AD_PROCESS_ID>
+<!--183-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--183-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--183-->  <AD_VAL_RULE_ID><![CDATA[26D8602C48004E1182B46310DF7015AE]]></AD_VAL_RULE_ID>
+<!--183-->  <COLUMNNAME><![CDATA[M_PriceList_Version_ID]]></COLUMNNAME>
+<!--183-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--183-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--183-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--183-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--183-->  <DEFAULTVALUE><![CDATA[@SQL=SELECT MIN(M_PRICELIST_VERSION_ID) AS TOTAL FROM M_PRICELIST_VERSION M, C_BPARTNER B WHERE M.M_PRICELIST_ID = (CASE @isSOTrx@ WHEN 'Y' THEN B.M_PRICELIST_ID ELSE COALESCE(B.PO_PRICELIST_ID, B.M_PRICELIST_ID) END) AND M.ISACTIVE = 'Y' AND B.C_BPARTNER_ID = @C_BPARTNER_ID@]]></DEFAULTVALUE>
+<!--183-->  <AD_ELEMENT_ID><![CDATA[450]]></AD_ELEMENT_ID>
+<!--183--></AD_PROCESS_PARA>
+
+<!--208--><AD_PROCESS_PARA>
+<!--208-->  <AD_PROCESS_PARA_ID><![CDATA[208]]></AD_PROCESS_PARA_ID>
+<!--208-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--208-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--208-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--208-->  <NAME><![CDATA[Commission]]></NAME>
+<!--208-->  <DESCRIPTION><![CDATA[Commission Identifier]]></DESCRIPTION>
+<!--208-->  <HELP><![CDATA[The Commission ID is a unique identifier of a set of commission rules.]]></HELP>
+<!--208-->  <AD_PROCESS_ID><![CDATA[165]]></AD_PROCESS_ID>
+<!--208-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--208-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--208-->  <COLUMNNAME><![CDATA[C_Commission_ID]]></COLUMNNAME>
+<!--208-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--208-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--208-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--208-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--208-->  <AD_ELEMENT_ID><![CDATA[1547]]></AD_ELEMENT_ID>
+<!--208--></AD_PROCESS_PARA>
+
+<!--209--><AD_PROCESS_PARA>
+<!--209-->  <AD_PROCESS_PARA_ID><![CDATA[209]]></AD_PROCESS_PARA_ID>
+<!--209-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--209-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--209-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--209-->  <NAME><![CDATA[Starting Date]]></NAME>
+<!--209-->  <DESCRIPTION><![CDATA[A parameter stating when a specified request will begin.]]></DESCRIPTION>
+<!--209-->  <HELP><![CDATA[A parameter stating when a specified request will begin.]]></HELP>
+<!--209-->  <AD_PROCESS_ID><![CDATA[123]]></AD_PROCESS_ID>
+<!--209-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--209-->  <AD_REFERENCE_ID><![CDATA[15]]></AD_REFERENCE_ID>
+<!--209-->  <COLUMNNAME><![CDATA[StartDate]]></COLUMNNAME>
+<!--209-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--209-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--209-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--209-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--209-->  <DEFAULTVALUE><![CDATA[@#Date@]]></DEFAULTVALUE>
+<!--209-->  <AD_ELEMENT_ID><![CDATA[574]]></AD_ELEMENT_ID>
+<!--209--></AD_PROCESS_PARA>
+
+<!--223--><AD_PROCESS_PARA>
+<!--223-->  <AD_PROCESS_PARA_ID><![CDATA[223]]></AD_PROCESS_PARA_ID>
+<!--223-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--223-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--223-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--223-->  <NAME><![CDATA[Client]]></NAME>
+<!--223-->  <DESCRIPTION><![CDATA[Client for this installation.]]></DESCRIPTION>
+<!--223-->  <HELP><![CDATA[A Client is a company or a legal entity. You cannot share data between Clients.]]></HELP>
+<!--223-->  <AD_PROCESS_ID><![CDATA[175]]></AD_PROCESS_ID>
+<!--223-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--223-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--223-->  <AD_VAL_RULE_ID><![CDATA[103]]></AD_VAL_RULE_ID>
+<!--223-->  <COLUMNNAME><![CDATA[AD_Client_ID]]></COLUMNNAME>
+<!--223-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--223-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--223-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--223-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--223-->  <DEFAULTVALUE><![CDATA[@AD_Client_ID@]]></DEFAULTVALUE>
+<!--223-->  <AD_ELEMENT_ID><![CDATA[102]]></AD_ELEMENT_ID>
+<!--223--></AD_PROCESS_PARA>
+
+<!--224--><AD_PROCESS_PARA>
+<!--224-->  <AD_PROCESS_PARA_ID><![CDATA[224]]></AD_PROCESS_PARA_ID>
+<!--224-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--224-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--224-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--224-->  <NAME><![CDATA[Table]]></NAME>
+<!--224-->  <DESCRIPTION><![CDATA[A dictionary table used for this tab that points to the database table.]]></DESCRIPTION>
+<!--224-->  <HELP><![CDATA[The Table indicates the table in which a field or fields reside.]]></HELP>
+<!--224-->  <AD_PROCESS_ID><![CDATA[175]]></AD_PROCESS_ID>
+<!--224-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--224-->  <AD_REFERENCE_ID><![CDATA[18]]></AD_REFERENCE_ID>
+<!--224-->  <AD_REFERENCE_VALUE_ID><![CDATA[800022]]></AD_REFERENCE_VALUE_ID>
+<!--224-->  <COLUMNNAME><![CDATA[AD_Table_ID]]></COLUMNNAME>
+<!--224-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--224-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--224-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--224-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--224-->  <AD_ELEMENT_ID><![CDATA[126]]></AD_ELEMENT_ID>
+<!--224--></AD_PROCESS_PARA>
+
+<!--228--><AD_PROCESS_PARA>
+<!--228-->  <AD_PROCESS_PARA_ID><![CDATA[228]]></AD_PROCESS_PARA_ID>
+<!--228-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--228-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--228-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--228-->  <NAME><![CDATA[Price List Version]]></NAME>
+<!--228-->  <DESCRIPTION><![CDATA[A price list with a specified validity range.]]></DESCRIPTION>
+<!--228-->  <HELP><![CDATA[Each Price List can have multiple versions.  The most common use is to indicate the dates that a Price List is valid for.]]></HELP>
+<!--228-->  <AD_PROCESS_ID><![CDATA[180]]></AD_PROCESS_ID>
+<!--228-->  <SEQNO><![CDATA[30]]></SEQNO>
+<!--228-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--228-->  <COLUMNNAME><![CDATA[M_PriceList_Version_ID]]></COLUMNNAME>
+<!--228-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--228-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--228-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--228-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--228-->  <AD_ELEMENT_ID><![CDATA[450]]></AD_ELEMENT_ID>
+<!--228--></AD_PROCESS_PARA>
+
+<!--229--><AD_PROCESS_PARA>
+<!--229-->  <AD_PROCESS_PARA_ID><![CDATA[229]]></AD_PROCESS_PARA_ID>
+<!--229-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--229-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--229-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--229-->  <NAME><![CDATA[Valuation Date]]></NAME>
+<!--229-->  <DESCRIPTION><![CDATA[Date of valuation]]></DESCRIPTION>
+<!--229-->  <HELP><![CDATA[Date of valuation]]></HELP>
+<!--229-->  <AD_PROCESS_ID><![CDATA[180]]></AD_PROCESS_ID>
+<!--229-->  <SEQNO><![CDATA[40]]></SEQNO>
+<!--229-->  <AD_REFERENCE_ID><![CDATA[15]]></AD_REFERENCE_ID>
+<!--229-->  <COLUMNNAME><![CDATA[DateValue]]></COLUMNNAME>
+<!--229-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--229-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--229-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--229-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--229-->  <AD_ELEMENT_ID><![CDATA[1727]]></AD_ELEMENT_ID>
+<!--229--></AD_PROCESS_PARA>
+
+<!--230--><AD_PROCESS_PARA>
+<!--230-->  <AD_PROCESS_PARA_ID><![CDATA[230]]></AD_PROCESS_PARA_ID>
+<!--230-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--230-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--230-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--230-->  <NAME><![CDATA[Warehouse]]></NAME>
+<!--230-->  <DESCRIPTION><![CDATA[The location where products arrive to or are sent from.]]></DESCRIPTION>
+<!--230-->  <HELP><![CDATA[The Warehouse identifies a unique Warehouse where products are stored or Services are provided.]]></HELP>
+<!--230-->  <AD_PROCESS_ID><![CDATA[180]]></AD_PROCESS_ID>
+<!--230-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--230-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--230-->  <COLUMNNAME><![CDATA[M_Warehouse_ID]]></COLUMNNAME>
+<!--230-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--230-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--230-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--230-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--230-->  <AD_ELEMENT_ID><![CDATA[459]]></AD_ELEMENT_ID>
+<!--230--></AD_PROCESS_PARA>
+
+<!--231--><AD_PROCESS_PARA>
+<!--231-->  <AD_PROCESS_PARA_ID><![CDATA[231]]></AD_PROCESS_PARA_ID>
+<!--231-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--231-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--231-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--231-->  <NAME><![CDATA[Currency]]></NAME>
+<!--231-->  <DESCRIPTION><![CDATA[An accepted medium of monetary exchange that may vary across countries.]]></DESCRIPTION>
+<!--231-->  <HELP><![CDATA[Indicates the currency to be used when processing this document.]]></HELP>
+<!--231-->  <AD_PROCESS_ID><![CDATA[180]]></AD_PROCESS_ID>
+<!--231-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--231-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--231-->  <COLUMNNAME><![CDATA[C_Currency_ID]]></COLUMNNAME>
+<!--231-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--231-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--231-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--231-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--231-->  <AD_ELEMENT_ID><![CDATA[193]]></AD_ELEMENT_ID>
+<!--231--></AD_PROCESS_PARA>
+
+<!--232--><AD_PROCESS_PARA>
+<!--232-->  <AD_PROCESS_PARA_ID><![CDATA[232]]></AD_PROCESS_PARA_ID>
+<!--232-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--232-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--232-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--232-->  <NAME><![CDATA[Set Future Costs to]]></NAME>
+<!--232-->  <DESCRIPTION><![CDATA[Set the Future costs to the selection]]></DESCRIPTION>
+<!--232-->  <HELP><![CDATA[Set the Future costs to the selection]]></HELP>
+<!--232-->  <AD_PROCESS_ID><![CDATA[182]]></AD_PROCESS_ID>
+<!--232-->  <SEQNO><![CDATA[30]]></SEQNO>
+<!--232-->  <AD_REFERENCE_ID><![CDATA[17]]></AD_REFERENCE_ID>
+<!--232-->  <AD_REFERENCE_VALUE_ID><![CDATA[250]]></AD_REFERENCE_VALUE_ID>
+<!--232-->  <COLUMNNAME><![CDATA[SetFutureCostTo]]></COLUMNNAME>
+<!--232-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--232-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--232-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--232-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--232-->  <AD_ELEMENT_ID><![CDATA[1747]]></AD_ELEMENT_ID>
+<!--232--></AD_PROCESS_PARA>
+
+<!--233--><AD_PROCESS_PARA>
+<!--233-->  <AD_PROCESS_PARA_ID><![CDATA[233]]></AD_PROCESS_PARA_ID>
+<!--233-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--233-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--233-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--233-->  <NAME><![CDATA[Pricelist Version]]></NAME>
+<!--233-->  <DESCRIPTION><![CDATA[Only used if Price List is used to set future cost price]]></DESCRIPTION>
+<!--233-->  <AD_PROCESS_ID><![CDATA[182]]></AD_PROCESS_ID>
+<!--233-->  <SEQNO><![CDATA[40]]></SEQNO>
+<!--233-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--233-->  <COLUMNNAME><![CDATA[M_PriceList_Version_ID]]></COLUMNNAME>
+<!--233-->  <ISCENTRALLYMAINTAINED><![CDATA[N]]></ISCENTRALLYMAINTAINED>
+<!--233-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--233-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--233-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--233-->  <AD_ELEMENT_ID><![CDATA[450]]></AD_ELEMENT_ID>
+<!--233--></AD_PROCESS_PARA>
+
+<!--234--><AD_PROCESS_PARA>
+<!--234-->  <AD_PROCESS_PARA_ID><![CDATA[234]]></AD_PROCESS_PARA_ID>
+<!--234-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--234-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--234-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--234-->  <NAME><![CDATA[Set Standard Cost]]></NAME>
+<!--234-->  <DESCRIPTION><![CDATA[Set new Standard Costs from Future Costs]]></DESCRIPTION>
+<!--234-->  <HELP><![CDATA[Set new Standard Costs from Future Costs]]></HELP>
+<!--234-->  <AD_PROCESS_ID><![CDATA[182]]></AD_PROCESS_ID>
+<!--234-->  <SEQNO><![CDATA[50]]></SEQNO>
+<!--234-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--234-->  <COLUMNNAME><![CDATA[SetStandardCost]]></COLUMNNAME>
+<!--234-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--234-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--234-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--234-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--234-->  <AD_ELEMENT_ID><![CDATA[1748]]></AD_ELEMENT_ID>
+<!--234--></AD_PROCESS_PARA>
+
+<!--235--><AD_PROCESS_PARA>
+<!--235-->  <AD_PROCESS_PARA_ID><![CDATA[235]]></AD_PROCESS_PARA_ID>
+<!--235-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--235-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--235-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--235-->  <NAME><![CDATA[Client]]></NAME>
+<!--235-->  <DESCRIPTION><![CDATA[Client for this installation.]]></DESCRIPTION>
+<!--235-->  <HELP><![CDATA[A Client is a company or a legal entity. You cannot share data between Clients.]]></HELP>
+<!--235-->  <AD_PROCESS_ID><![CDATA[182]]></AD_PROCESS_ID>
+<!--235-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--235-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--235-->  <COLUMNNAME><![CDATA[AD_Client_ID]]></COLUMNNAME>
+<!--235-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--235-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--235-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--235-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--235-->  <AD_ELEMENT_ID><![CDATA[102]]></AD_ELEMENT_ID>
+<!--235--></AD_PROCESS_PARA>
+
+<!--236--><AD_PROCESS_PARA>
+<!--236-->  <AD_PROCESS_PARA_ID><![CDATA[236]]></AD_PROCESS_PARA_ID>
+<!--236-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--236-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--236-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--236-->  <NAME><![CDATA[Product Category]]></NAME>
+<!--236-->  <DESCRIPTION><![CDATA[A classification of items based on similar characteristics or attributes.]]></DESCRIPTION>
+<!--236-->  <HELP><![CDATA[Identifies the category which this product belongs to.  Product categories are used for pricing.]]></HELP>
+<!--236-->  <AD_PROCESS_ID><![CDATA[182]]></AD_PROCESS_ID>
+<!--236-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--236-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--236-->  <COLUMNNAME><![CDATA[M_Product_Category_ID]]></COLUMNNAME>
+<!--236-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--236-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--236-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--236-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--236-->  <AD_ELEMENT_ID><![CDATA[453]]></AD_ELEMENT_ID>
+<!--236--></AD_PROCESS_PARA>
+
+<!--249--><AD_PROCESS_PARA>
+<!--249-->  <AD_PROCESS_PARA_ID><![CDATA[249]]></AD_PROCESS_PARA_ID>
+<!--249-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--249-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--249-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--249-->  <NAME><![CDATA[Report Column Set]]></NAME>
+<!--249-->  <DESCRIPTION><![CDATA[Collection of Columns for Report]]></DESCRIPTION>
+<!--249-->  <HELP><![CDATA[The Report Column Set identifies the columns used in a Report.]]></HELP>
+<!--249-->  <AD_PROCESS_ID><![CDATA[189]]></AD_PROCESS_ID>
+<!--249-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--249-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--249-->  <COLUMNNAME><![CDATA[PA_ReportColumnSet_ID]]></COLUMNNAME>
+<!--249-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--249-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--249-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--249-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--249-->  <AD_ELEMENT_ID><![CDATA[1613]]></AD_ELEMENT_ID>
+<!--249--></AD_PROCESS_PARA>
+
+<!--252--><AD_PROCESS_PARA>
+<!--252-->  <AD_PROCESS_PARA_ID><![CDATA[252]]></AD_PROCESS_PARA_ID>
+<!--252-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--252-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--252-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--252-->  <NAME><![CDATA[Table]]></NAME>
+<!--252-->  <DESCRIPTION><![CDATA[A dictionary table used for this tab that points to the database table.]]></DESCRIPTION>
+<!--252-->  <HELP><![CDATA[The Table indicates the table in which a field or fields reside.]]></HELP>
+<!--252-->  <AD_PROCESS_ID><![CDATA[192]]></AD_PROCESS_ID>
+<!--252-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--252-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--252-->  <COLUMNNAME><![CDATA[AD_Table_ID]]></COLUMNNAME>
+<!--252-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--252-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--252-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--252-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--252-->  <AD_ELEMENT_ID><![CDATA[126]]></AD_ELEMENT_ID>
+<!--252--></AD_PROCESS_PARA>
+
+<!--253--><AD_PROCESS_PARA>
+<!--253-->  <AD_PROCESS_PARA_ID><![CDATA[253]]></AD_PROCESS_PARA_ID>
+<!--253-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--253-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--253-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--253-->  <NAME><![CDATA[Print Format]]></NAME>
+<!--253-->  <DESCRIPTION><![CDATA[The structure in which a document will be printed.]]></DESCRIPTION>
+<!--253-->  <HELP><![CDATA[The print format determines how data is rendered for print.]]></HELP>
+<!--253-->  <AD_PROCESS_ID><![CDATA[192]]></AD_PROCESS_ID>
+<!--253-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--253-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--253-->  <COLUMNNAME><![CDATA[AD_PrintFormat_ID]]></COLUMNNAME>
+<!--253-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--253-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--253-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--253-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--253-->  <AD_ELEMENT_ID><![CDATA[1790]]></AD_ELEMENT_ID>
+<!--253--></AD_PROCESS_PARA>
+
+<!--263--><AD_PROCESS_PARA>
+<!--263-->  <AD_PROCESS_PARA_ID><![CDATA[263]]></AD_PROCESS_PARA_ID>
+<!--263-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--263-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--263-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--263-->  <NAME><![CDATA[Client]]></NAME>
+<!--263-->  <DESCRIPTION><![CDATA[Client for this installation.]]></DESCRIPTION>
+<!--263-->  <HELP><![CDATA[A Client is a company or a legal entity. You cannot share data between Clients.]]></HELP>
+<!--263-->  <AD_PROCESS_ID><![CDATA[198]]></AD_PROCESS_ID>
+<!--263-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--263-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--263-->  <COLUMNNAME><![CDATA[AD_Client_ID]]></COLUMNNAME>
+<!--263-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--263-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--263-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--263-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--263-->  <AD_ELEMENT_ID><![CDATA[102]]></AD_ELEMENT_ID>
+<!--263--></AD_PROCESS_PARA>
+
+<!--264--><AD_PROCESS_PARA>
+<!--264-->  <AD_PROCESS_PARA_ID><![CDATA[264]]></AD_PROCESS_PARA_ID>
+<!--264-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--264-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--264-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--264-->  <NAME><![CDATA[Report Line Set]]></NAME>
+<!--264-->  <DESCRIPTION><![CDATA[x not implemented]]></DESCRIPTION>
+<!--264-->  <AD_PROCESS_ID><![CDATA[198]]></AD_PROCESS_ID>
+<!--264-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--264-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--264-->  <COLUMNNAME><![CDATA[PA_ReportLineSet_ID]]></COLUMNNAME>
+<!--264-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--264-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--264-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--264-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--264-->  <AD_ELEMENT_ID><![CDATA[1615]]></AD_ELEMENT_ID>
+<!--264--></AD_PROCESS_PARA>
+
+<!--268--><AD_PROCESS_PARA>
+<!--268-->  <AD_PROCESS_PARA_ID><![CDATA[268]]></AD_PROCESS_PARA_ID>
+<!--268-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--268-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--268-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--268-->  <NAME><![CDATA[Delete old imported records]]></NAME>
+<!--268-->  <DESCRIPTION><![CDATA[Before processing delete old imported records in the import table]]></DESCRIPTION>
+<!--268-->  <HELP><![CDATA[Before processing delete old imported records in the import table]]></HELP>
+<!--268-->  <AD_PROCESS_ID><![CDATA[198]]></AD_PROCESS_ID>
+<!--268-->  <SEQNO><![CDATA[30]]></SEQNO>
+<!--268-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--268-->  <COLUMNNAME><![CDATA[DeleteOldImported]]></COLUMNNAME>
+<!--268-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--268-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--268-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--268-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--268-->  <AD_ELEMENT_ID><![CDATA[1922]]></AD_ELEMENT_ID>
+<!--268--></AD_PROCESS_PARA>
+
+<!--280--><AD_PROCESS_PARA>
+<!--280-->  <AD_PROCESS_PARA_ID><![CDATA[280]]></AD_PROCESS_PARA_ID>
+<!--280-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--280-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--280-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--280-->  <NAME><![CDATA[Period]]></NAME>
+<!--280-->  <DESCRIPTION><![CDATA[A specified time period.]]></DESCRIPTION>
+<!--280-->  <HELP><![CDATA[The Period indicates an exclusive range of dates for a calendar.]]></HELP>
+<!--280-->  <AD_PROCESS_ID><![CDATA[202]]></AD_PROCESS_ID>
+<!--280-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--280-->  <AD_REFERENCE_ID><![CDATA[18]]></AD_REFERENCE_ID>
+<!--280-->  <AD_REFERENCE_VALUE_ID><![CDATA[275]]></AD_REFERENCE_VALUE_ID>
+<!--280-->  <COLUMNNAME><![CDATA[C_Period_ID]]></COLUMNNAME>
+<!--280-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--280-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--280-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--280-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--280-->  <AD_ELEMENT_ID><![CDATA[206]]></AD_ELEMENT_ID>
+<!--280--></AD_PROCESS_PARA>
+
+<!--286--><AD_PROCESS_PARA>
+<!--286-->  <AD_PROCESS_PARA_ID><![CDATA[286]]></AD_PROCESS_PARA_ID>
+<!--286-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--286-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--286-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--286-->  <NAME><![CDATA[Trx Organization]]></NAME>
+<!--286-->  <DESCRIPTION><![CDATA[Organizational entity within client]]></DESCRIPTION>
+<!--286-->  <HELP><![CDATA[An organization is a unit of your client or legal entity - examples are store, department.]]></HELP>
+<!--286-->  <AD_PROCESS_ID><![CDATA[202]]></AD_PROCESS_ID>
+<!--286-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--286-->  <AD_REFERENCE_ID><![CDATA[18]]></AD_REFERENCE_ID>
+<!--286-->  <AD_REFERENCE_VALUE_ID><![CDATA[276]]></AD_REFERENCE_VALUE_ID>
+<!--286-->  <COLUMNNAME><![CDATA[Org_ID]]></COLUMNNAME>
+<!--286-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--286-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--286-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--286-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--286-->  <AD_ELEMENT_ID><![CDATA[479]]></AD_ELEMENT_ID>
+<!--286--></AD_PROCESS_PARA>
+
+<!--287--><AD_PROCESS_PARA>
+<!--287-->  <AD_PROCESS_PARA_ID><![CDATA[287]]></AD_PROCESS_PARA_ID>
+<!--287-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--287-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--287-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--287-->  <NAME><![CDATA[Business Partner]]></NAME>
+<!--287-->  <DESCRIPTION><![CDATA[Anyone who takes part in daily business operations by acting as a customer, employee, etc.]]></DESCRIPTION>
+<!--287-->  <HELP><![CDATA[A Business Partner is anyone with whom you transact.  This can include a customer, vendor, employee or any combination of these.]]></HELP>
+<!--287-->  <AD_PROCESS_ID><![CDATA[202]]></AD_PROCESS_ID>
+<!--287-->  <SEQNO><![CDATA[30]]></SEQNO>
+<!--287-->  <AD_REFERENCE_ID><![CDATA[30]]></AD_REFERENCE_ID>
+<!--287-->  <AD_REFERENCE_VALUE_ID><![CDATA[800057]]></AD_REFERENCE_VALUE_ID>
+<!--287-->  <COLUMNNAME><![CDATA[C_BPartner_ID]]></COLUMNNAME>
+<!--287-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--287-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--287-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--287-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--287-->  <AD_ELEMENT_ID><![CDATA[187]]></AD_ELEMENT_ID>
+<!--287--></AD_PROCESS_PARA>
+
+<!--288--><AD_PROCESS_PARA>
+<!--288-->  <AD_PROCESS_PARA_ID><![CDATA[288]]></AD_PROCESS_PARA_ID>
+<!--288-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--288-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--288-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--288-->  <NAME><![CDATA[Product]]></NAME>
+<!--288-->  <DESCRIPTION><![CDATA[An item produced by a process.]]></DESCRIPTION>
+<!--288-->  <HELP><![CDATA[Identifies an item which is either purchased or sold in this organization.]]></HELP>
+<!--288-->  <AD_PROCESS_ID><![CDATA[202]]></AD_PROCESS_ID>
+<!--288-->  <SEQNO><![CDATA[40]]></SEQNO>
+<!--288-->  <AD_REFERENCE_ID><![CDATA[30]]></AD_REFERENCE_ID>
+<!--288-->  <AD_REFERENCE_VALUE_ID><![CDATA[800060]]></AD_REFERENCE_VALUE_ID>
+<!--288-->  <COLUMNNAME><![CDATA[M_Product_ID]]></COLUMNNAME>
+<!--288-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--288-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--288-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--288-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--288-->  <AD_ELEMENT_ID><![CDATA[454]]></AD_ELEMENT_ID>
+<!--288--></AD_PROCESS_PARA>
+
+<!--289--><AD_PROCESS_PARA>
+<!--289-->  <AD_PROCESS_PARA_ID><![CDATA[289]]></AD_PROCESS_PARA_ID>
+<!--289-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--289-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--289-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--289-->  <NAME><![CDATA[Project]]></NAME>
+<!--289-->  <DESCRIPTION><![CDATA[Identifier of a project defined within the Project & Service Management module.]]></DESCRIPTION>
+<!--289-->  <HELP><![CDATA[Identifier of a project defined within the Project & Service Management module.]]></HELP>
+<!--289-->  <AD_PROCESS_ID><![CDATA[202]]></AD_PROCESS_ID>
+<!--289-->  <SEQNO><![CDATA[50]]></SEQNO>
+<!--289-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--289-->  <COLUMNNAME><![CDATA[C_Project_ID]]></COLUMNNAME>
+<!--289-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--289-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--289-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--289-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--289-->  <AD_ELEMENT_ID><![CDATA[208]]></AD_ELEMENT_ID>
+<!--289--></AD_PROCESS_PARA>
+
+<!--290--><AD_PROCESS_PARA>
+<!--290-->  <AD_PROCESS_PARA_ID><![CDATA[290]]></AD_PROCESS_PARA_ID>
+<!--290-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--290-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--290-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--290-->  <NAME><![CDATA[Activity]]></NAME>
+<!--290-->  <DESCRIPTION><![CDATA[A distinct activity defined and used in activity based management.]]></DESCRIPTION>
+<!--290-->  <HELP><![CDATA[Activities indicate tasks that are performed and used to utilize Activity based Costing]]></HELP>
+<!--290-->  <AD_PROCESS_ID><![CDATA[202]]></AD_PROCESS_ID>
+<!--290-->  <SEQNO><![CDATA[60]]></SEQNO>
+<!--290-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--290-->  <COLUMNNAME><![CDATA[C_Activity_ID]]></COLUMNNAME>
+<!--290-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--290-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--290-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--290-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--290-->  <AD_ELEMENT_ID><![CDATA[1005]]></AD_ELEMENT_ID>
+<!--290--></AD_PROCESS_PARA>
+
+<!--291--><AD_PROCESS_PARA>
+<!--291-->  <AD_PROCESS_PARA_ID><![CDATA[291]]></AD_PROCESS_PARA_ID>
+<!--291-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--291-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--291-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--291-->  <NAME><![CDATA[Sales Region]]></NAME>
+<!--291-->  <DESCRIPTION><![CDATA[A defined section of the world where sales efforts will be focused.]]></DESCRIPTION>
+<!--291-->  <HELP><![CDATA[The Sales Region indicates a specific area of sales coverage.]]></HELP>
+<!--291-->  <AD_PROCESS_ID><![CDATA[202]]></AD_PROCESS_ID>
+<!--291-->  <SEQNO><![CDATA[70]]></SEQNO>
+<!--291-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--291-->  <COLUMNNAME><![CDATA[C_SalesRegion_ID]]></COLUMNNAME>
+<!--291-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--291-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--291-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--291-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--291-->  <AD_ELEMENT_ID><![CDATA[210]]></AD_ELEMENT_ID>
+<!--291--></AD_PROCESS_PARA>
+
+<!--292--><AD_PROCESS_PARA>
+<!--292-->  <AD_PROCESS_PARA_ID><![CDATA[292]]></AD_PROCESS_PARA_ID>
+<!--292-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--292-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--292-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--292-->  <NAME><![CDATA[Sales Campaign]]></NAME>
+<!--292-->  <DESCRIPTION><![CDATA[An advertising effort aimed at increasing sales.]]></DESCRIPTION>
+<!--292-->  <HELP><![CDATA[The Campaign defines a unique marketing program.  Projects can be associated with a pre defined Marketing Campaign.  You can then report based on a specific Campaign.]]></HELP>
+<!--292-->  <AD_PROCESS_ID><![CDATA[202]]></AD_PROCESS_ID>
+<!--292-->  <SEQNO><![CDATA[80]]></SEQNO>
+<!--292-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--292-->  <COLUMNNAME><![CDATA[C_Campaign_ID]]></COLUMNNAME>
+<!--292-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--292-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--292-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--292-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--292-->  <AD_ELEMENT_ID><![CDATA[550]]></AD_ELEMENT_ID>
+<!--292--></AD_PROCESS_PARA>
+
+<!--300--><AD_PROCESS_PARA>
+<!--300-->  <AD_PROCESS_PARA_ID><![CDATA[300]]></AD_PROCESS_PARA_ID>
+<!--300-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--300-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--300-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--300-->  <NAME><![CDATA[Report Line Set]]></NAME>
+<!--300-->  <DESCRIPTION><![CDATA[x not implemented]]></DESCRIPTION>
+<!--300-->  <AD_PROCESS_ID><![CDATA[190]]></AD_PROCESS_ID>
+<!--300-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--300-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--300-->  <COLUMNNAME><![CDATA[PA_ReportLineSet_ID]]></COLUMNNAME>
+<!--300-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--300-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--300-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--300-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--300-->  <AD_ELEMENT_ID><![CDATA[1615]]></AD_ELEMENT_ID>
+<!--300--></AD_PROCESS_PARA>
+
+<!--302--><AD_PROCESS_PARA>
+<!--302-->  <AD_PROCESS_PARA_ID><![CDATA[302]]></AD_PROCESS_PARA_ID>
+<!--302-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--302-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--302-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--302-->  <NAME><![CDATA[Target Payment Rule]]></NAME>
+<!--302-->  <DESCRIPTION><![CDATA[How you pay the invoice]]></DESCRIPTION>
+<!--302-->  <HELP><![CDATA[The Payment Rule indicates the method of invoice payment.]]></HELP>
+<!--302-->  <AD_PROCESS_ID><![CDATA[155]]></AD_PROCESS_ID>
+<!--302-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--302-->  <AD_REFERENCE_ID><![CDATA[17]]></AD_REFERENCE_ID>
+<!--302-->  <AD_REFERENCE_VALUE_ID><![CDATA[195]]></AD_REFERENCE_VALUE_ID>
+<!--302-->  <AD_VAL_RULE_ID><![CDATA[162]]></AD_VAL_RULE_ID>
+<!--302-->  <COLUMNNAME><![CDATA[PaymentRule]]></COLUMNNAME>
+<!--302-->  <ISCENTRALLYMAINTAINED><![CDATA[N]]></ISCENTRALLYMAINTAINED>
+<!--302-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--302-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--302-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--302-->  <AD_ELEMENT_ID><![CDATA[1143]]></AD_ELEMENT_ID>
+<!--302--></AD_PROCESS_PARA>
+
+<!--312--><AD_PROCESS_PARA>
+<!--312-->  <AD_PROCESS_PARA_ID><![CDATA[312]]></AD_PROCESS_PARA_ID>
+<!--312-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--312-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--312-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--312-->  <NAME><![CDATA[Test]]></NAME>
+<!--312-->  <DESCRIPTION><![CDATA[Execute in Test Mode]]></DESCRIPTION>
+<!--312-->  <HELP><![CDATA[Execute in Test Mode]]></HELP>
+<!--312-->  <AD_PROCESS_ID><![CDATA[208]]></AD_PROCESS_ID>
+<!--312-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--312-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--312-->  <COLUMNNAME><![CDATA[IsTest]]></COLUMNNAME>
+<!--312-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--312-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--312-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--312-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--312-->  <AD_ELEMENT_ID><![CDATA[2153]]></AD_ELEMENT_ID>
+<!--312--></AD_PROCESS_PARA>
+
+<!--317--><AD_PROCESS_PARA>
+<!--317-->  <AD_PROCESS_PARA_ID><![CDATA[317]]></AD_PROCESS_PARA_ID>
+<!--317-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--317-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--317-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--317-->  <NAME><![CDATA[Invoice]]></NAME>
+<!--317-->  <DESCRIPTION><![CDATA[A document listing products, quantities and prices, payment terms, etc.]]></DESCRIPTION>
+<!--317-->  <HELP><![CDATA[The Invoice ID uniquely identifies an Invoice Document.]]></HELP>
+<!--317-->  <AD_PROCESS_ID><![CDATA[210]]></AD_PROCESS_ID>
+<!--317-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--317-->  <AD_REFERENCE_ID><![CDATA[30]]></AD_REFERENCE_ID>
+<!--317-->  <AD_REFERENCE_VALUE_ID><![CDATA[800059]]></AD_REFERENCE_VALUE_ID>
+<!--317-->  <COLUMNNAME><![CDATA[C_Invoice_ID]]></COLUMNNAME>
+<!--317-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--317-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--317-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--317-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--317-->  <AD_ELEMENT_ID><![CDATA[1008]]></AD_ELEMENT_ID>
+<!--317--></AD_PROCESS_PARA>
+
+<!--318--><AD_PROCESS_PARA>
+<!--318-->  <AD_PROCESS_PARA_ID><![CDATA[318]]></AD_PROCESS_PARA_ID>
+<!--318-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--318-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--318-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--318-->  <NAME><![CDATA[Sales Order]]></NAME>
+<!--318-->  <DESCRIPTION><![CDATA[A unique and often automatically generated identifier for a sales order.]]></DESCRIPTION>
+<!--318-->  <HELP><![CDATA[Unique identifier and a reference to a Sales Order originating from the document sequence defined for this document type.]]></HELP>
+<!--318-->  <AD_PROCESS_ID><![CDATA[211]]></AD_PROCESS_ID>
+<!--318-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--318-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--318-->  <COLUMNNAME><![CDATA[C_Order_ID]]></COLUMNNAME>
+<!--318-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--318-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--318-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--318-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--318-->  <AD_ELEMENT_ID><![CDATA[558]]></AD_ELEMENT_ID>
+<!--318--></AD_PROCESS_PARA>
+
+<!--319--><AD_PROCESS_PARA>
+<!--319-->  <AD_PROCESS_PARA_ID><![CDATA[319]]></AD_PROCESS_PARA_ID>
+<!--319-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--319-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--319-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--319-->  <NAME><![CDATA[Project]]></NAME>
+<!--319-->  <DESCRIPTION><![CDATA[Identifier of a project defined within the Project & Service Management module.]]></DESCRIPTION>
+<!--319-->  <HELP><![CDATA[Identifier of a project defined within the Project & Service Management module.]]></HELP>
+<!--319-->  <AD_PROCESS_ID><![CDATA[212]]></AD_PROCESS_ID>
+<!--319-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--319-->  <AD_REFERENCE_ID><![CDATA[30]]></AD_REFERENCE_ID>
+<!--319-->  <AD_REFERENCE_VALUE_ID><![CDATA[800061]]></AD_REFERENCE_VALUE_ID>
+<!--319-->  <COLUMNNAME><![CDATA[C_Project_ID]]></COLUMNNAME>
+<!--319-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--319-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--319-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--319-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--319-->  <AD_ELEMENT_ID><![CDATA[208]]></AD_ELEMENT_ID>
+<!--319--></AD_PROCESS_PARA>
+
+<!--320--><AD_PROCESS_PARA>
+<!--320-->  <AD_PROCESS_PARA_ID><![CDATA[320]]></AD_PROCESS_PARA_ID>
+<!--320-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--320-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--320-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--320-->  <NAME><![CDATA[Journal Batch]]></NAME>
+<!--320-->  <DESCRIPTION><![CDATA[General Ledger Journal Batch]]></DESCRIPTION>
+<!--320-->  <HELP><![CDATA[The General Ledger Journal Batch identifies a group of journals to be processed as a group.]]></HELP>
+<!--320-->  <AD_PROCESS_ID><![CDATA[214]]></AD_PROCESS_ID>
+<!--320-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--320-->  <AD_REFERENCE_ID><![CDATA[30]]></AD_REFERENCE_ID>
+<!--320-->  <COLUMNNAME><![CDATA[GL_JournalBatch_ID]]></COLUMNNAME>
+<!--320-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--320-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--320-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--320-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--320-->  <AD_ELEMENT_ID><![CDATA[313]]></AD_ELEMENT_ID>
+<!--320--></AD_PROCESS_PARA>
+
+<!--321--><AD_PROCESS_PARA>
+<!--321-->  <AD_PROCESS_PARA_ID><![CDATA[321]]></AD_PROCESS_PARA_ID>
+<!--321-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--321-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--321-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--321-->  <NAME><![CDATA[Project Type]]></NAME>
+<!--321-->  <DESCRIPTION><![CDATA[Project Type is a template of a common project. ]]></DESCRIPTION>
+<!--321-->  <HELP><![CDATA[Project Type is a template of a common project. Standard phases and tasks can be entered into this template and then quickly reused on new projects.]]></HELP>
+<!--321-->  <AD_PROCESS_ID><![CDATA[215]]></AD_PROCESS_ID>
+<!--321-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--321-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--321-->  <COLUMNNAME><![CDATA[C_ProjectType_ID]]></COLUMNNAME>
+<!--321-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--321-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--321-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--321-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--321-->  <AD_ELEMENT_ID><![CDATA[2033]]></AD_ELEMENT_ID>
+<!--321--></AD_PROCESS_PARA>
+
+<!--333--><AD_PROCESS_PARA>
+<!--333-->  <AD_PROCESS_PARA_ID><![CDATA[333]]></AD_PROCESS_PARA_ID>
+<!--333-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--333-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--333-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--333-->  <NAME><![CDATA[Client]]></NAME>
+<!--333-->  <DESCRIPTION><![CDATA[Client for this installation.]]></DESCRIPTION>
+<!--333-->  <HELP><![CDATA[A Client is a company or a legal entity. You cannot share data between Clients.]]></HELP>
+<!--333-->  <AD_PROCESS_ID><![CDATA[221]]></AD_PROCESS_ID>
+<!--333-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--333-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--333-->  <AD_VAL_RULE_ID><![CDATA[129]]></AD_VAL_RULE_ID>
+<!--333-->  <COLUMNNAME><![CDATA[AD_Client_ID]]></COLUMNNAME>
+<!--333-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--333-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--333-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--333-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--333-->  <AD_ELEMENT_ID><![CDATA[102]]></AD_ELEMENT_ID>
+<!--333--></AD_PROCESS_PARA>
+
+<!--334--><AD_PROCESS_PARA>
+<!--334-->  <AD_PROCESS_PARA_ID><![CDATA[334]]></AD_PROCESS_PARA_ID>
+<!--334-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--334-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--334-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--334-->  <NAME><![CDATA[Organization]]></NAME>
+<!--334-->  <DESCRIPTION><![CDATA[Organizational entity within client]]></DESCRIPTION>
+<!--334-->  <HELP><![CDATA[An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.]]></HELP>
+<!--334-->  <AD_PROCESS_ID><![CDATA[221]]></AD_PROCESS_ID>
+<!--334-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--334-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--334-->  <AD_VAL_RULE_ID><![CDATA[130]]></AD_VAL_RULE_ID>
+<!--334-->  <COLUMNNAME><![CDATA[AD_Org_ID]]></COLUMNNAME>
+<!--334-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--334-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--334-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--334-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--334-->  <AD_ELEMENT_ID><![CDATA[113]]></AD_ELEMENT_ID>
+<!--334--></AD_PROCESS_PARA>
+
+<!--335--><AD_PROCESS_PARA>
+<!--335-->  <AD_PROCESS_PARA_ID><![CDATA[335]]></AD_PROCESS_PARA_ID>
+<!--335-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--335-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--335-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--335-->  <NAME><![CDATA[Bank Account]]></NAME>
+<!--335-->  <DESCRIPTION><![CDATA[A monetary account of funds held in a recognized banking institution.]]></DESCRIPTION>
+<!--335-->  <HELP><![CDATA[The Bank Account identifies an account at this Bank.]]></HELP>
+<!--335-->  <AD_PROCESS_ID><![CDATA[221]]></AD_PROCESS_ID>
+<!--335-->  <SEQNO><![CDATA[30]]></SEQNO>
+<!--335-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--335-->  <COLUMNNAME><![CDATA[C_BankAccount_ID]]></COLUMNNAME>
+<!--335-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--335-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--335-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--335-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--335-->  <AD_ELEMENT_ID><![CDATA[836]]></AD_ELEMENT_ID>
+<!--335--></AD_PROCESS_PARA>
+
+<!--336--><AD_PROCESS_PARA>
+<!--336-->  <AD_PROCESS_PARA_ID><![CDATA[336]]></AD_PROCESS_PARA_ID>
+<!--336-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--336-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--336-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--336-->  <NAME><![CDATA[Delete old imported records]]></NAME>
+<!--336-->  <DESCRIPTION><![CDATA[Before processing delete old imported records in the import table]]></DESCRIPTION>
+<!--336-->  <HELP><![CDATA[Before processing delete old imported records in the import table]]></HELP>
+<!--336-->  <AD_PROCESS_ID><![CDATA[221]]></AD_PROCESS_ID>
+<!--336-->  <SEQNO><![CDATA[40]]></SEQNO>
+<!--336-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--336-->  <COLUMNNAME><![CDATA[DeleteOldImported]]></COLUMNNAME>
+<!--336-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--336-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--336-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--336-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--336-->  <AD_ELEMENT_ID><![CDATA[1922]]></AD_ELEMENT_ID>
+<!--336--></AD_PROCESS_PARA>
+
+<!--800000--><AD_PROCESS_PARA>
+<!--800000-->  <AD_PROCESS_PARA_ID><![CDATA[800000]]></AD_PROCESS_PARA_ID>
+<!--800000-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800000-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800000-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800000-->  <NAME><![CDATA[Goods Shipment]]></NAME>
+<!--800000-->  <DESCRIPTION><![CDATA[The document number for identifying an act of sending goods.]]></DESCRIPTION>
+<!--800000-->  <HELP><![CDATA[The Shipment ID indicates the unique document for this shipment.]]></HELP>
+<!--800000-->  <AD_PROCESS_ID><![CDATA[800010]]></AD_PROCESS_ID>
+<!--800000-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--800000-->  <AD_REFERENCE_ID><![CDATA[30]]></AD_REFERENCE_ID>
+<!--800000-->  <AD_REFERENCE_VALUE_ID><![CDATA[800095]]></AD_REFERENCE_VALUE_ID>
+<!--800000-->  <COLUMNNAME><![CDATA[M_InOut_ID]]></COLUMNNAME>
+<!--800000-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800000-->  <FIELDLENGTH><![CDATA[25]]></FIELDLENGTH>
+<!--800000-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--800000-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800000-->  <VFORMAT><![CDATA[L]]></VFORMAT>
+<!--800000-->  <AD_ELEMENT_ID><![CDATA[1025]]></AD_ELEMENT_ID>
+<!--800000--></AD_PROCESS_PARA>
+
+<!--800004--><AD_PROCESS_PARA>
+<!--800004-->  <AD_PROCESS_PARA_ID><![CDATA[800004]]></AD_PROCESS_PARA_ID>
+<!--800004-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800004-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800004-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800004-->  <NAME><![CDATA[Get out from Settlement]]></NAME>
+<!--800004-->  <DESCRIPTION><![CDATA[Get out from Settlement]]></DESCRIPTION>
+<!--800004-->  <HELP><![CDATA[Get out from Settlement]]></HELP>
+<!--800004-->  <AD_PROCESS_ID><![CDATA[800024]]></AD_PROCESS_ID>
+<!--800004-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--800004-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--800004-->  <COLUMNNAME><![CDATA[GetOutSettlement]]></COLUMNNAME>
+<!--800004-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800004-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--800004-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--800004-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800004-->  <AD_ELEMENT_ID><![CDATA[800072]]></AD_ELEMENT_ID>
+<!--800004--></AD_PROCESS_PARA>
+
+<!--800006--><AD_PROCESS_PARA>
+<!--800006-->  <AD_PROCESS_PARA_ID><![CDATA[800006]]></AD_PROCESS_PARA_ID>
+<!--800006-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800006-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800006-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800006-->  <NAME><![CDATA[Write-off Amount]]></NAME>
+<!--800006-->  <DESCRIPTION><![CDATA[A monetary sum that can be deducted from tax obligations.]]></DESCRIPTION>
+<!--800006-->  <HELP><![CDATA[The Write Off Amount indicates the amount to be written off as uncollectible.]]></HELP>
+<!--800006-->  <AD_PROCESS_ID><![CDATA[800024]]></AD_PROCESS_ID>
+<!--800006-->  <SEQNO><![CDATA[30]]></SEQNO>
+<!--800006-->  <AD_REFERENCE_ID><![CDATA[12]]></AD_REFERENCE_ID>
+<!--800006-->  <COLUMNNAME><![CDATA[NewWriteOffAmt]]></COLUMNNAME>
+<!--800006-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800006-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--800006-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--800006-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800006-->  <DEFAULTVALUE><![CDATA[@WriteOffAmt@]]></DEFAULTVALUE>
+<!--800006-->  <AD_ELEMENT_ID><![CDATA[1450]]></AD_ELEMENT_ID>
+<!--800006--></AD_PROCESS_PARA>
+
+<!--800007--><AD_PROCESS_PARA>
+<!--800007-->  <AD_PROCESS_PARA_ID><![CDATA[800007]]></AD_PROCESS_PARA_ID>
+<!--800007-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800007-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800007-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800007-->  <NAME><![CDATA[Storage Bin from]]></NAME>
+<!--800007-->  <AD_PROCESS_ID><![CDATA[800048]]></AD_PROCESS_ID>
+<!--800007-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--800007-->  <AD_REFERENCE_ID><![CDATA[30]]></AD_REFERENCE_ID>
+<!--800007-->  <AD_REFERENCE_VALUE_ID><![CDATA[31]]></AD_REFERENCE_VALUE_ID>
+<!--800007-->  <COLUMNNAME><![CDATA[M_LocatorFrom]]></COLUMNNAME>
+<!--800007-->  <ISCENTRALLYMAINTAINED><![CDATA[N]]></ISCENTRALLYMAINTAINED>
+<!--800007-->  <FIELDLENGTH><![CDATA[40]]></FIELDLENGTH>
+<!--800007-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--800007-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800007-->  <AD_ELEMENT_ID><![CDATA[800117]]></AD_ELEMENT_ID>
+<!--800007--></AD_PROCESS_PARA>
+
+<!--800008--><AD_PROCESS_PARA>
+<!--800008-->  <AD_PROCESS_PARA_ID><![CDATA[800008]]></AD_PROCESS_PARA_ID>
+<!--800008-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800008-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800008-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800008-->  <NAME><![CDATA[Storage Bin to]]></NAME>
+<!--800008-->  <AD_PROCESS_ID><![CDATA[800048]]></AD_PROCESS_ID>
+<!--800008-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--800008-->  <AD_REFERENCE_ID><![CDATA[30]]></AD_REFERENCE_ID>
+<!--800008-->  <AD_REFERENCE_VALUE_ID><![CDATA[31]]></AD_REFERENCE_VALUE_ID>
+<!--800008-->  <COLUMNNAME><![CDATA[M_LocatorTo]]></COLUMNNAME>
+<!--800008-->  <ISCENTRALLYMAINTAINED><![CDATA[N]]></ISCENTRALLYMAINTAINED>
+<!--800008-->  <FIELDLENGTH><![CDATA[40]]></FIELDLENGTH>
+<!--800008-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--800008-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800008-->  <AD_ELEMENT_ID><![CDATA[800118]]></AD_ELEMENT_ID>
+<!--800008--></AD_PROCESS_PARA>
+
+<!--800013--><AD_PROCESS_PARA>
+<!--800013-->  <AD_PROCESS_PARA_ID><![CDATA[800013]]></AD_PROCESS_PARA_ID>
+<!--800013-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800013-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800013-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800013-->  <NAME><![CDATA[Set Book Quantity to zero]]></NAME>
+<!--800013-->  <AD_PROCESS_ID><![CDATA[105]]></AD_PROCESS_ID>
+<!--800013-->  <SEQNO><![CDATA[30]]></SEQNO>
+<!--800013-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--800013-->  <COLUMNNAME><![CDATA[regularization]]></COLUMNNAME>
+<!--800013-->  <ISCENTRALLYMAINTAINED><![CDATA[N]]></ISCENTRALLYMAINTAINED>
+<!--800013-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--800013-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--800013-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800013-->  <DEFAULTVALUE><![CDATA[N]]></DEFAULTVALUE>
+<!--800013-->  <AD_ELEMENT_ID><![CDATA[800141]]></AD_ELEMENT_ID>
+<!--800013--></AD_PROCESS_PARA>
+
+<!--800021--><AD_PROCESS_PARA>
+<!--800021-->  <AD_PROCESS_PARA_ID><![CDATA[800021]]></AD_PROCESS_PARA_ID>
+<!--800021-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800021-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800021-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800021-->  <NAME><![CDATA[Price list version source]]></NAME>
+<!--800021-->  <AD_PROCESS_ID><![CDATA[800069]]></AD_PROCESS_ID>
+<!--800021-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--800021-->  <AD_REFERENCE_ID><![CDATA[18]]></AD_REFERENCE_ID>
+<!--800021-->  <AD_REFERENCE_VALUE_ID><![CDATA[188]]></AD_REFERENCE_VALUE_ID>
+<!--800021-->  <COLUMNNAME><![CDATA[M_PriceList_Version_Origen_ID]]></COLUMNNAME>
+<!--800021-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800021-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--800021-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--800021-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800021-->  <AD_ELEMENT_ID><![CDATA[800162]]></AD_ELEMENT_ID>
+<!--800021--></AD_PROCESS_PARA>
+
+<!--800031--><AD_PROCESS_PARA>
+<!--800031-->  <AD_PROCESS_PARA_ID><![CDATA[800031]]></AD_PROCESS_PARA_ID>
+<!--800031-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800031-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800031-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800031-->  <NAME><![CDATA[Process Plan Version]]></NAME>
+<!--800031-->  <HELP><![CDATA[Indicates a process plan version.]]></HELP>
+<!--800031-->  <AD_PROCESS_ID><![CDATA[800112]]></AD_PROCESS_ID>
+<!--800031-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--800031-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--800031-->  <COLUMNNAME><![CDATA[MA_Processplan_Version_ID]]></COLUMNNAME>
+<!--800031-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800031-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--800031-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--800031-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800031-->  <AD_ELEMENT_ID><![CDATA[800455]]></AD_ELEMENT_ID>
+<!--800031--></AD_PROCESS_PARA>
+
+<!--800032--><AD_PROCESS_PARA>
+<!--800032-->  <AD_PROCESS_PARA_ID><![CDATA[800032]]></AD_PROCESS_PARA_ID>
+<!--800032-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800032-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800032-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800032-->  <NAME><![CDATA[Business Partner]]></NAME>
+<!--800032-->  <DESCRIPTION><![CDATA[Anyone who takes part in daily business operations by acting as a customer, employee, etc.]]></DESCRIPTION>
+<!--800032-->  <HELP><![CDATA[A Business Partner is anyone with whom you transact.  This can include a customer, vendor, employee or any combination of these.]]></HELP>
+<!--800032-->  <AD_PROCESS_ID><![CDATA[800126]]></AD_PROCESS_ID>
+<!--800032-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--800032-->  <AD_REFERENCE_ID><![CDATA[30]]></AD_REFERENCE_ID>
+<!--800032-->  <AD_REFERENCE_VALUE_ID><![CDATA[800057]]></AD_REFERENCE_VALUE_ID>
+<!--800032-->  <COLUMNNAME><![CDATA[C_BPartner_ID]]></COLUMNNAME>
+<!--800032-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800032-->  <FIELDLENGTH><![CDATA[20]]></FIELDLENGTH>
+<!--800032-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--800032-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800032-->  <AD_ELEMENT_ID><![CDATA[187]]></AD_ELEMENT_ID>
+<!--800032--></AD_PROCESS_PARA>
+
+<!--800033--><AD_PROCESS_PARA>
+<!--800033-->  <AD_PROCESS_PARA_ID><![CDATA[800033]]></AD_PROCESS_PARA_ID>
+<!--800033-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800033-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800033-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800033-->  <NAME><![CDATA[Amount]]></NAME>
+<!--800033-->  <DESCRIPTION><![CDATA[A monetary total.]]></DESCRIPTION>
+<!--800033-->  <HELP><![CDATA[The Amount indicates the amount for this document line.]]></HELP>
+<!--800033-->  <AD_PROCESS_ID><![CDATA[800126]]></AD_PROCESS_ID>
+<!--800033-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--800033-->  <AD_REFERENCE_ID><![CDATA[22]]></AD_REFERENCE_ID>
+<!--800033-->  <COLUMNNAME><![CDATA[Amount]]></COLUMNNAME>
+<!--800033-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800033-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--800033-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--800033-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800033-->  <AD_ELEMENT_ID><![CDATA[1367]]></AD_ELEMENT_ID>
+<!--800033--></AD_PROCESS_PARA>
+
+<!--800034--><AD_PROCESS_PARA>
+<!--800034-->  <AD_PROCESS_PARA_ID><![CDATA[800034]]></AD_PROCESS_PARA_ID>
+<!--800034-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800034-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800034-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800034-->  <NAME><![CDATA[Currency]]></NAME>
+<!--800034-->  <DESCRIPTION><![CDATA[An accepted medium of monetary exchange that may vary across countries.]]></DESCRIPTION>
+<!--800034-->  <HELP><![CDATA[Indicates the currency to be used when processing this document.]]></HELP>
+<!--800034-->  <AD_PROCESS_ID><![CDATA[800126]]></AD_PROCESS_ID>
+<!--800034-->  <SEQNO><![CDATA[30]]></SEQNO>
+<!--800034-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--800034-->  <COLUMNNAME><![CDATA[C_Currency_ID]]></COLUMNNAME>
+<!--800034-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800034-->  <FIELDLENGTH><![CDATA[12]]></FIELDLENGTH>
+<!--800034-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--800034-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800034-->  <DEFAULTVALUE><![CDATA[@$C_Currency_ID@]]></DEFAULTVALUE>
+<!--800034-->  <AD_ELEMENT_ID><![CDATA[193]]></AD_ELEMENT_ID>
+<!--800034--></AD_PROCESS_PARA>
+
+<!--800035--><AD_PROCESS_PARA>
+<!--800035-->  <AD_PROCESS_PARA_ID><![CDATA[800035]]></AD_PROCESS_PARA_ID>
+<!--800035-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800035-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800035-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800035-->  <NAME><![CDATA[Form of Payment]]></NAME>
+<!--800035-->  <DESCRIPTION><![CDATA[The method used for payment of this transaction.]]></DESCRIPTION>
+<!--800035-->  <HELP><![CDATA[Form of Payment indicates the method of payment used for this transaction (eg. cash, wire transfer, etc.)]]></HELP>
+<!--800035-->  <AD_PROCESS_ID><![CDATA[800126]]></AD_PROCESS_ID>
+<!--800035-->  <SEQNO><![CDATA[40]]></SEQNO>
+<!--800035-->  <AD_REFERENCE_ID><![CDATA[17]]></AD_REFERENCE_ID>
+<!--800035-->  <AD_REFERENCE_VALUE_ID><![CDATA[195]]></AD_REFERENCE_VALUE_ID>
+<!--800035-->  <COLUMNNAME><![CDATA[PaymentRule]]></COLUMNNAME>
+<!--800035-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800035-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--800035-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--800035-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800035-->  <AD_ELEMENT_ID><![CDATA[1143]]></AD_ELEMENT_ID>
+<!--800035--></AD_PROCESS_PARA>
+
+<!--800036--><AD_PROCESS_PARA>
+<!--800036-->  <AD_PROCESS_PARA_ID><![CDATA[800036]]></AD_PROCESS_PARA_ID>
+<!--800036-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800036-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800036-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800036-->  <NAME><![CDATA[Due Date]]></NAME>
+<!--800036-->  <DESCRIPTION><![CDATA[The date when a specified request must be carried out by.]]></DESCRIPTION>
+<!--800036-->  <HELP><![CDATA[Refers to a date by which the payment must be completed.]]></HELP>
+<!--800036-->  <AD_PROCESS_ID><![CDATA[800126]]></AD_PROCESS_ID>
+<!--800036-->  <SEQNO><![CDATA[50]]></SEQNO>
+<!--800036-->  <AD_REFERENCE_ID><![CDATA[15]]></AD_REFERENCE_ID>
+<!--800036-->  <COLUMNNAME><![CDATA[Dateplanned]]></COLUMNNAME>
+<!--800036-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800036-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--800036-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--800036-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800036-->  <AD_ELEMENT_ID><![CDATA[800063]]></AD_ELEMENT_ID>
+<!--800036--></AD_PROCESS_PARA>
+
+<!--800037--><AD_PROCESS_PARA>
+<!--800037-->  <AD_PROCESS_PARA_ID><![CDATA[800037]]></AD_PROCESS_PARA_ID>
+<!--800037-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800037-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800037-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800037-->  <NAME><![CDATA[Receipt]]></NAME>
+<!--800037-->  <DESCRIPTION><![CDATA[Indicates a sales or purchase transaction.]]></DESCRIPTION>
+<!--800037-->  <HELP><![CDATA[Indicated a sales transaction (Accounts Receivable if Receipt=Y) or a purchase transaction (Accounts Payable if Receipt=N).]]></HELP>
+<!--800037-->  <AD_PROCESS_ID><![CDATA[800126]]></AD_PROCESS_ID>
+<!--800037-->  <SEQNO><![CDATA[60]]></SEQNO>
+<!--800037-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--800037-->  <COLUMNNAME><![CDATA[IsReceipt]]></COLUMNNAME>
+<!--800037-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800037-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--800037-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--800037-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800037-->  <AD_ELEMENT_ID><![CDATA[1634]]></AD_ELEMENT_ID>
+<!--800037--></AD_PROCESS_PARA>
+
+<!--800038--><AD_PROCESS_PARA>
+<!--800038-->  <AD_PROCESS_PARA_ID><![CDATA[800038]]></AD_PROCESS_PARA_ID>
+<!--800038-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800038-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800038-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800038-->  <NAME><![CDATA[Description]]></NAME>
+<!--800038-->  <DESCRIPTION><![CDATA[A space to write additional related information.]]></DESCRIPTION>
+<!--800038-->  <HELP><![CDATA[A description is limited to 255 characters.]]></HELP>
+<!--800038-->  <AD_PROCESS_ID><![CDATA[800126]]></AD_PROCESS_ID>
+<!--800038-->  <SEQNO><![CDATA[70]]></SEQNO>
+<!--800038-->  <AD_REFERENCE_ID><![CDATA[10]]></AD_REFERENCE_ID>
+<!--800038-->  <COLUMNNAME><![CDATA[Description]]></COLUMNNAME>
+<!--800038-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800038-->  <FIELDLENGTH><![CDATA[60]]></FIELDLENGTH>
+<!--800038-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--800038-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800038-->  <AD_ELEMENT_ID><![CDATA[275]]></AD_ELEMENT_ID>
+<!--800038--></AD_PROCESS_PARA>
+
+<!--800039--><AD_PROCESS_PARA>
+<!--800039-->  <AD_PROCESS_PARA_ID><![CDATA[800039]]></AD_PROCESS_PARA_ID>
+<!--800039-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800039-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800039-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800039-->  <NAME><![CDATA[Limit Date]]></NAME>
+<!--800039-->  <AD_PROCESS_ID><![CDATA[800068]]></AD_PROCESS_ID>
+<!--800039-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--800039-->  <AD_REFERENCE_ID><![CDATA[15]]></AD_REFERENCE_ID>
+<!--800039-->  <COLUMNNAME><![CDATA[LimitDate]]></COLUMNNAME>
+<!--800039-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800039-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--800039-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--800039-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800039-->  <DEFAULTVALUE><![CDATA[@#Date@]]></DEFAULTVALUE>
+<!--800039-->  <AD_ELEMENT_ID><![CDATA[800579]]></AD_ELEMENT_ID>
+<!--800039--></AD_PROCESS_PARA>
+
+<!--800042--><AD_PROCESS_PARA>
+<!--800042-->  <AD_PROCESS_PARA_ID><![CDATA[800042]]></AD_PROCESS_PARA_ID>
+<!--800042-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800042-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800042-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800042-->  <NAME><![CDATA[Budget]]></NAME>
+<!--800042-->  <DESCRIPTION><![CDATA[A group of planned expenses for a task.]]></DESCRIPTION>
+<!--800042-->  <HELP><![CDATA[Used to define the anticipated costs of doing business]]></HELP>
+<!--800042-->  <AD_PROCESS_ID><![CDATA[800135]]></AD_PROCESS_ID>
+<!--800042-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--800042-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--800042-->  <COLUMNNAME><![CDATA[C_Budget_ID]]></COLUMNNAME>
+<!--800042-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800042-->  <FIELDLENGTH><![CDATA[15]]></FIELDLENGTH>
+<!--800042-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--800042-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800042-->  <AD_ELEMENT_ID><![CDATA[800605]]></AD_ELEMENT_ID>
+<!--800042--></AD_PROCESS_PARA>
+
+<!--800043--><AD_PROCESS_PARA>
+<!--800043-->  <AD_PROCESS_PARA_ID><![CDATA[800043]]></AD_PROCESS_PARA_ID>
+<!--800043-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800043-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800043-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800043-->  <NAME><![CDATA[Asset Category]]></NAME>
+<!--800043-->  <DESCRIPTION><![CDATA[A classification of assets based on similar characteristics.]]></DESCRIPTION>
+<!--800043-->  <HELP><![CDATA[The group of assets determines default accounts.  If an asset group is selected in the product category, assets are created when delivering the asset.]]></HELP>
+<!--800043-->  <AD_PROCESS_ID><![CDATA[800136]]></AD_PROCESS_ID>
+<!--800043-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--800043-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--800043-->  <COLUMNNAME><![CDATA[A_Asset_Group_ID]]></COLUMNNAME>
+<!--800043-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800043-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--800043-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--800043-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800043-->  <AD_ELEMENT_ID><![CDATA[1929]]></AD_ELEMENT_ID>
+<!--800043--></AD_PROCESS_PARA>
+
+<!--800046--><AD_PROCESS_PARA>
+<!--800046-->  <AD_PROCESS_PARA_ID><![CDATA[800046]]></AD_PROCESS_PARA_ID>
+<!--800046-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800046-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800046-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800046-->  <NAME><![CDATA[Cheaper Shipper]]></NAME>
+<!--800046-->  <AD_PROCESS_ID><![CDATA[800141]]></AD_PROCESS_ID>
+<!--800046-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--800046-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--800046-->  <COLUMNNAME><![CDATA[cheaper]]></COLUMNNAME>
+<!--800046-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800046-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--800046-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--800046-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800046-->  <AD_ELEMENT_ID><![CDATA[800642]]></AD_ELEMENT_ID>
+<!--800046--></AD_PROCESS_PARA>
+
+<!--800047--><AD_PROCESS_PARA>
+<!--800047-->  <AD_PROCESS_PARA_ID><![CDATA[800047]]></AD_PROCESS_PARA_ID>
+<!--800047-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800047-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800047-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800047-->  <NAME><![CDATA[Calculate quantity]]></NAME>
+<!--800047-->  <AD_PROCESS_ID><![CDATA[800141]]></AD_PROCESS_ID>
+<!--800047-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--800047-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--800047-->  <COLUMNNAME><![CDATA[calc_qty]]></COLUMNNAME>
+<!--800047-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800047-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--800047-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--800047-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800047-->  <AD_ELEMENT_ID><![CDATA[800641]]></AD_ELEMENT_ID>
+<!--800047--></AD_PROCESS_PARA>
+
+<!--800053--><AD_PROCESS_PARA>
+<!--800053-->  <AD_PROCESS_PARA_ID><![CDATA[800053]]></AD_PROCESS_PARA_ID>
+<!--800053-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--800053-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--800053-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--800053-->  <NAME><![CDATA[Warehouse]]></NAME>
+<!--800053-->  <DESCRIPTION><![CDATA[The location where products arrive to or are sent from.]]></DESCRIPTION>
+<!--800053-->  <HELP><![CDATA[The Warehouse identifies a unique Warehouse where products are stored or Services are provided.]]></HELP>
+<!--800053-->  <AD_PROCESS_ID><![CDATA[800163]]></AD_PROCESS_ID>
+<!--800053-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--800053-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--800053-->  <AD_VAL_RULE_ID><![CDATA[71188F0005494DA08311B4FFB2C5A993]]></AD_VAL_RULE_ID>
+<!--800053-->  <COLUMNNAME><![CDATA[M_Warehouse_ID]]></COLUMNNAME>
+<!--800053-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--800053-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--800053-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--800053-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--800053-->  <DEFAULTVALUE><![CDATA[@#M_Warehouse_ID@]]></DEFAULTVALUE>
+<!--800053-->  <AD_ELEMENT_ID><![CDATA[459]]></AD_ELEMENT_ID>
+<!--800053--></AD_PROCESS_PARA>
+
+<!--1000500000--><AD_PROCESS_PARA>
+<!--1000500000-->  <AD_PROCESS_PARA_ID><![CDATA[1000500000]]></AD_PROCESS_PARA_ID>
+<!--1000500000-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--1000500000-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--1000500000-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--1000500000-->  <NAME><![CDATA[Abc]]></NAME>
+<!--1000500000-->  <DESCRIPTION><![CDATA[ABC classification according to a Pareto distribution]]></DESCRIPTION>
+<!--1000500000-->  <HELP><![CDATA[ABC classification according to a Pareto distribution]]></HELP>
+<!--1000500000-->  <AD_PROCESS_ID><![CDATA[105]]></AD_PROCESS_ID>
+<!--1000500000-->  <SEQNO><![CDATA[40]]></SEQNO>
+<!--1000500000-->  <AD_REFERENCE_ID><![CDATA[17]]></AD_REFERENCE_ID>
+<!--1000500000-->  <AD_REFERENCE_VALUE_ID><![CDATA[1000500000]]></AD_REFERENCE_VALUE_ID>
+<!--1000500000-->  <COLUMNNAME><![CDATA[ABC]]></COLUMNNAME>
+<!--1000500000-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--1000500000-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--1000500000-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--1000500000-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--1000500000-->  <AD_ELEMENT_ID><![CDATA[1000500001]]></AD_ELEMENT_ID>
+<!--1000500000--></AD_PROCESS_PARA>
+
+<!--1000600000--><AD_PROCESS_PARA>
+<!--1000600000-->  <AD_PROCESS_PARA_ID><![CDATA[1000600000]]></AD_PROCESS_PARA_ID>
+<!--1000600000-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--1000600000-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--1000600000-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--1000600000-->  <NAME><![CDATA[General Ledger]]></NAME>
+<!--1000600000-->  <DESCRIPTION><![CDATA[The book containing all financial transactions recorded for the legal entity.]]></DESCRIPTION>
+<!--1000600000-->  <HELP><![CDATA[The book containing all financial transactions recorded for the legal entity.]]></HELP>
+<!--1000600000-->  <AD_PROCESS_ID><![CDATA[140]]></AD_PROCESS_ID>
+<!--1000600000-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--1000600000-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--1000600000-->  <AD_VAL_RULE_ID><![CDATA[FF8081812F06A183012F07323A2A001C]]></AD_VAL_RULE_ID>
+<!--1000600000-->  <COLUMNNAME><![CDATA[C_AcctSchema_ID]]></COLUMNNAME>
+<!--1000600000-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--1000600000-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--1000600000-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--1000600000-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--1000600000-->  <DEFAULTVALUE><![CDATA[@C_AcctSchema_ID@]]></DEFAULTVALUE>
+<!--1000600000-->  <AD_ELEMENT_ID><![CDATA[181]]></AD_ELEMENT_ID>
+<!--1000600000--></AD_PROCESS_PARA>
+
+<!--1000600001--><AD_PROCESS_PARA>
+<!--1000600001-->  <AD_PROCESS_PARA_ID><![CDATA[1000600001]]></AD_PROCESS_PARA_ID>
+<!--1000600001-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--1000600001-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--1000600001-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--1000600001-->  <NAME><![CDATA[General Ledger]]></NAME>
+<!--1000600001-->  <DESCRIPTION><![CDATA[The book containing all financial transactions recorded for the legal entity.]]></DESCRIPTION>
+<!--1000600001-->  <HELP><![CDATA[The book containing all financial transactions recorded for the legal entity.]]></HELP>
+<!--1000600001-->  <AD_PROCESS_ID><![CDATA[112]]></AD_PROCESS_ID>
+<!--1000600001-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--1000600001-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--1000600001-->  <AD_VAL_RULE_ID><![CDATA[FF8081812F06A183012F07323A2A001C]]></AD_VAL_RULE_ID>
+<!--1000600001-->  <COLUMNNAME><![CDATA[C_AcctSchema_ID]]></COLUMNNAME>
+<!--1000600001-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--1000600001-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--1000600001-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--1000600001-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--1000600001-->  <DEFAULTVALUE><![CDATA[@C_AcctSchema_ID@]]></DEFAULTVALUE>
+<!--1000600001-->  <AD_ELEMENT_ID><![CDATA[181]]></AD_ELEMENT_ID>
+<!--1000600001--></AD_PROCESS_PARA>
+
+<!--1004400000--><AD_PROCESS_PARA>
+<!--1004400000-->  <AD_PROCESS_PARA_ID><![CDATA[1004400000]]></AD_PROCESS_PARA_ID>
+<!--1004400000-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--1004400000-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--1004400000-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--1004400000-->  <NAME><![CDATA[Order Date]]></NAME>
+<!--1004400000-->  <DESCRIPTION><![CDATA[The time listed on the order.]]></DESCRIPTION>
+<!--1004400000-->  <HELP><![CDATA[Indicates the Date an item was ordered.]]></HELP>
+<!--1004400000-->  <AD_PROCESS_ID><![CDATA[1004400000]]></AD_PROCESS_ID>
+<!--1004400000-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--1004400000-->  <AD_REFERENCE_ID><![CDATA[15]]></AD_REFERENCE_ID>
+<!--1004400000-->  <COLUMNNAME><![CDATA[DateOrdered]]></COLUMNNAME>
+<!--1004400000-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--1004400000-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--1004400000-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--1004400000-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--1004400000-->  <DEFAULTVALUE><![CDATA[@#Date@]]></DEFAULTVALUE>
+<!--1004400000-->  <AD_ELEMENT_ID><![CDATA[268]]></AD_ELEMENT_ID>
+<!--1004400000--></AD_PROCESS_PARA>
+
+<!--1004400001--><AD_PROCESS_PARA>
+<!--1004400001-->  <AD_PROCESS_PARA_ID><![CDATA[1004400001]]></AD_PROCESS_PARA_ID>
+<!--1004400001-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--1004400001-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--1004400001-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--1004400001-->  <NAME><![CDATA[Business Partner]]></NAME>
+<!--1004400001-->  <DESCRIPTION><![CDATA[Anyone who takes part in daily business operations by acting as a customer, employee, etc.]]></DESCRIPTION>
+<!--1004400001-->  <HELP><![CDATA[A Business Partner is anyone with whom you transact.  This can include a customer, vendor, employee or any combination of these.]]></HELP>
+<!--1004400001-->  <AD_PROCESS_ID><![CDATA[1004400000]]></AD_PROCESS_ID>
+<!--1004400001-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--1004400001-->  <AD_REFERENCE_ID><![CDATA[30]]></AD_REFERENCE_ID>
+<!--1004400001-->  <AD_REFERENCE_VALUE_ID><![CDATA[800057]]></AD_REFERENCE_VALUE_ID>
+<!--1004400001-->  <COLUMNNAME><![CDATA[C_BPartner_ID]]></COLUMNNAME>
+<!--1004400001-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--1004400001-->  <FIELDLENGTH><![CDATA[30]]></FIELDLENGTH>
+<!--1004400001-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--1004400001-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--1004400001-->  <DEFAULTVALUE><![CDATA[@SQL=SELECT M_Requisition.C_Bpartner_Id FROM M_Requisition, (SELECT count(*) as SameBP FROM M_Requisition inner join M_requisitionLine ON M_Requisition.M_Requisition_id = M_requisitionLine.M_Requisition_id WHERE M_Requisition.c_bpartner_id = M_requisitionLine.c_bpartner_id AND M_Requisition.M_Requisition_id = @M_Requisition_ID@) SameBP,  (SELECT count(*) as QtyLines FROM M_RequisitionLine WHERE M_RequisitionLine.M_Requisition_id=@M_Requisition_ID@) QtyLines  WHERE SameBP.SameBP = QtyLines.QtyLines AND M_Requisition.M_Requisition_id =@M_Requisition_ID@]]></DEFAULTVALUE>
+<!--1004400001-->  <AD_ELEMENT_ID><![CDATA[187]]></AD_ELEMENT_ID>
+<!--1004400001--></AD_PROCESS_PARA>
+
+<!--1004400002--><AD_PROCESS_PARA>
+<!--1004400002-->  <AD_PROCESS_PARA_ID><![CDATA[1004400002]]></AD_PROCESS_PARA_ID>
+<!--1004400002-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--1004400002-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--1004400002-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--1004400002-->  <NAME><![CDATA[Price List]]></NAME>
+<!--1004400002-->  <DESCRIPTION><![CDATA[A catalog of selected items with prices defined generally or for a specific partner.]]></DESCRIPTION>
+<!--1004400002-->  <HELP><![CDATA[
+Price Lists are used to determine the pricing, margin and cost of items purchased or sold.]]></HELP>
+<!--1004400002-->  <AD_PROCESS_ID><![CDATA[1004400000]]></AD_PROCESS_ID>
+<!--1004400002-->  <SEQNO><![CDATA[30]]></SEQNO>
+<!--1004400002-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--1004400002-->  <AD_VAL_RULE_ID><![CDATA[1004400001]]></AD_VAL_RULE_ID>
+<!--1004400002-->  <COLUMNNAME><![CDATA[M_PriceList_ID]]></COLUMNNAME>
+<!--1004400002-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--1004400002-->  <FIELDLENGTH><![CDATA[20]]></FIELDLENGTH>
+<!--1004400002-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--1004400002-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--1004400002-->  <DEFAULTVALUE><![CDATA[@SQL=SELECT M_Requisition.m_pricelist_id  FROM M_Requisition,       (SELECT count(*) as SamePL        FROM M_Requisition inner join M_requisitionLine ON M_Requisition.M_Requisition_id = M_requisitionLine.M_Requisition_id       WHERE M_Requisition.m_pricelist_id = M_requisitionLine.m_pricelist_id AND M_Requisition.M_Requisition_id = @M_Requisition_ID@) SamePL,        (SELECT count(*) as QtyLines       FROM M_RequisitionLine       WHERE M_RequisitionLine.M_Requisition_id=@M_Requisition_ID@) QtyLines   WHERE SamePL.SamePL = QtyLines.QtyLines AND M_Requisition.M_Requisition_id =@M_Requisition_ID@]]></DEFAULTVALUE>
+<!--1004400002-->  <AD_ELEMENT_ID><![CDATA[449]]></AD_ELEMENT_ID>
+<!--1004400002--></AD_PROCESS_PARA>
+
+<!--1004400003--><AD_PROCESS_PARA>
+<!--1004400003-->  <AD_PROCESS_PARA_ID><![CDATA[1004400003]]></AD_PROCESS_PARA_ID>
+<!--1004400003-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--1004400003-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--1004400003-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--1004400003-->  <NAME><![CDATA[Organization]]></NAME>
+<!--1004400003-->  <DESCRIPTION><![CDATA[Organizational entity within client]]></DESCRIPTION>
+<!--1004400003-->  <HELP><![CDATA[An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.]]></HELP>
+<!--1004400003-->  <AD_PROCESS_ID><![CDATA[1004400000]]></AD_PROCESS_ID>
+<!--1004400003-->  <SEQNO><![CDATA[11]]></SEQNO>
+<!--1004400003-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--1004400003-->  <AD_VAL_RULE_ID><![CDATA[FDC45D1AE2404B8384D14DB6DED90DCF]]></AD_VAL_RULE_ID>
+<!--1004400003-->  <COLUMNNAME><![CDATA[AD_Org_ID]]></COLUMNNAME>
+<!--1004400003-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--1004400003-->  <FIELDLENGTH><![CDATA[20]]></FIELDLENGTH>
+<!--1004400003-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--1004400003-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--1004400003-->  <DEFAULTVALUE><![CDATA[@AD_Org_ID@]]></DEFAULTVALUE>
+<!--1004400003-->  <AD_ELEMENT_ID><![CDATA[113]]></AD_ELEMENT_ID>
+<!--1004400003--></AD_PROCESS_PARA>
+
+<!--1004400004--><AD_PROCESS_PARA>
+<!--1004400004-->  <AD_PROCESS_PARA_ID><![CDATA[1004400004]]></AD_PROCESS_PARA_ID>
+<!--1004400004-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--1004400004-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--1004400004-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--1004400004-->  <NAME><![CDATA[Warehouse]]></NAME>
+<!--1004400004-->  <DESCRIPTION><![CDATA[The location where products arrive to or are sent from.]]></DESCRIPTION>
+<!--1004400004-->  <HELP><![CDATA[The Warehouse identifies a unique Warehouse where products are stored or Services are provided.]]></HELP>
+<!--1004400004-->  <AD_PROCESS_ID><![CDATA[1004400000]]></AD_PROCESS_ID>
+<!--1004400004-->  <SEQNO><![CDATA[12]]></SEQNO>
+<!--1004400004-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--1004400004-->  <AD_VAL_RULE_ID><![CDATA[A3DCDE5EDD4A4403AC205B131F10F84D]]></AD_VAL_RULE_ID>
+<!--1004400004-->  <COLUMNNAME><![CDATA[M_Warehouse_ID]]></COLUMNNAME>
+<!--1004400004-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--1004400004-->  <FIELDLENGTH><![CDATA[20]]></FIELDLENGTH>
+<!--1004400004-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--1004400004-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--1004400004-->  <DEFAULTVALUE><![CDATA[@#M_WAREHOUSE_ID@]]></DEFAULTVALUE>
+<!--1004400004-->  <AD_ELEMENT_ID><![CDATA[459]]></AD_ELEMENT_ID>
+<!--1004400004--></AD_PROCESS_PARA>
+
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF--><AD_PROCESS_PARA>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <AD_PROCESS_PARA_ID><![CDATA[0324F423A8F74D9A9B91F7FF0DBD25CF]]></AD_PROCESS_PARA_ID>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <NAME><![CDATA[Form of Payment]]></NAME>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <DESCRIPTION><![CDATA[The method used for payment of this transaction.]]></DESCRIPTION>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <HELP><![CDATA[Form of Payment indicates the method of payment used for this transaction (eg. cash, wire transfer, etc.)]]></HELP>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <AD_PROCESS_ID><![CDATA[D56220370A774B7FA51323BE3C6E0F22]]></AD_PROCESS_ID>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <SEQNO><![CDATA[40]]></SEQNO>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <AD_REFERENCE_ID><![CDATA[17]]></AD_REFERENCE_ID>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <AD_REFERENCE_VALUE_ID><![CDATA[195]]></AD_REFERENCE_VALUE_ID>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <COLUMNNAME><![CDATA[PaymentRule]]></COLUMNNAME>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF-->  <AD_ELEMENT_ID><![CDATA[1143]]></AD_ELEMENT_ID>
+<!--0324F423A8F74D9A9B91F7FF0DBD25CF--></AD_PROCESS_PARA>
+
+<!--0A83F9207E2A49C99E275A6EE7340989--><AD_PROCESS_PARA>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <AD_PROCESS_PARA_ID><![CDATA[0A83F9207E2A49C99E275A6EE7340989]]></AD_PROCESS_PARA_ID>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <NAME><![CDATA[General Ledger]]></NAME>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <DESCRIPTION><![CDATA[The book containing all financial transactions recorded for the legal entity.]]></DESCRIPTION>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <HELP><![CDATA[The book containing all financial transactions recorded for the legal entity.]]></HELP>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <AD_PROCESS_ID><![CDATA[108]]></AD_PROCESS_ID>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <AD_VAL_RULE_ID><![CDATA[FDA7BA9355A6468DAF67E1C5288990A6]]></AD_VAL_RULE_ID>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <COLUMNNAME><![CDATA[C_AcctSchema_ID]]></COLUMNNAME>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <FIELDLENGTH><![CDATA[30]]></FIELDLENGTH>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--0A83F9207E2A49C99E275A6EE7340989-->  <AD_ELEMENT_ID><![CDATA[181]]></AD_ELEMENT_ID>
+<!--0A83F9207E2A49C99E275A6EE7340989--></AD_PROCESS_PARA>
+
+<!--205EF0C0D4A84C77B295AA69D2B825AF--><AD_PROCESS_PARA>
+<!--205EF0C0D4A84C77B295AA69D2B825AF-->  <AD_PROCESS_PARA_ID><![CDATA[205EF0C0D4A84C77B295AA69D2B825AF]]></AD_PROCESS_PARA_ID>
+<!--205EF0C0D4A84C77B295AA69D2B825AF-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--205EF0C0D4A84C77B295AA69D2B825AF-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--205EF0C0D4A84C77B295AA69D2B825AF-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--205EF0C0D4A84C77B295AA69D2B825AF-->  <NAME><![CDATA[Name]]></NAME>
+<!--205EF0C0D4A84C77B295AA69D2B825AF-->  <DESCRIPTION><![CDATA[A non-unique identifier for a record/document often used as a search tool.]]></DESCRIPTION>
+<!--205EF0C0D4A84C77B295AA69D2B825AF-->  <HELP><![CDATA[A more descriptive identifier (that does need to be unique) of a record/document that is used as a default search option along with the search key (that is unique and mostly shorter). It is up to 60 characters in length.]]></HELP>
+<!--205EF0C0D4A84C77B295AA69D2B825AF-->  <AD_PROCESS_ID><![CDATA[970EAD9B846648A7AB1F0CCA5058356C]]></AD_PROCESS_ID>
+<!--205EF0C0D4A84C77B295AA69D2B825AF-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--205EF0C0D4A84C77B295AA69D2B825AF-->  <AD_REFERENCE_ID><![CDATA[10]]></AD_REFERENCE_ID>
+<!--205EF0C0D4A84C77B295AA69D2B825AF-->  <COLUMNNAME><![CDATA[Name]]></COLUMNNAME>
+<!--205EF0C0D4A84C77B295AA69D2B825AF-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--205EF0C0D4A84C77B295AA69D2B825AF-->  <FIELDLENGTH><![CDATA[60]]></FIELDLENGTH>
+<!--205EF0C0D4A84C77B295AA69D2B825AF-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--205EF0C0D4A84C77B295AA69D2B825AF-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--205EF0C0D4A84C77B295AA69D2B825AF-->  <AD_ELEMENT_ID><![CDATA[469]]></AD_ELEMENT_ID>
+<!--205EF0C0D4A84C77B295AA69D2B825AF--></AD_PROCESS_PARA>
+
+<!--208021A9537641BAB0AFC4294453D59F--><AD_PROCESS_PARA>
+<!--208021A9537641BAB0AFC4294453D59F-->  <AD_PROCESS_PARA_ID><![CDATA[208021A9537641BAB0AFC4294453D59F]]></AD_PROCESS_PARA_ID>
+<!--208021A9537641BAB0AFC4294453D59F-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--208021A9537641BAB0AFC4294453D59F-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--208021A9537641BAB0AFC4294453D59F-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--208021A9537641BAB0AFC4294453D59F-->  <NAME><![CDATA[Description]]></NAME>
+<!--208021A9537641BAB0AFC4294453D59F-->  <DESCRIPTION><![CDATA[A space to write additional related information.]]></DESCRIPTION>
+<!--208021A9537641BAB0AFC4294453D59F-->  <HELP><![CDATA[A description is limited to 255 characters.]]></HELP>
+<!--208021A9537641BAB0AFC4294453D59F-->  <AD_PROCESS_ID><![CDATA[D56220370A774B7FA51323BE3C6E0F22]]></AD_PROCESS_ID>
+<!--208021A9537641BAB0AFC4294453D59F-->  <SEQNO><![CDATA[70]]></SEQNO>
+<!--208021A9537641BAB0AFC4294453D59F-->  <AD_REFERENCE_ID><![CDATA[10]]></AD_REFERENCE_ID>
+<!--208021A9537641BAB0AFC4294453D59F-->  <COLUMNNAME><![CDATA[Description]]></COLUMNNAME>
+<!--208021A9537641BAB0AFC4294453D59F-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--208021A9537641BAB0AFC4294453D59F-->  <FIELDLENGTH><![CDATA[60]]></FIELDLENGTH>
+<!--208021A9537641BAB0AFC4294453D59F-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--208021A9537641BAB0AFC4294453D59F-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--208021A9537641BAB0AFC4294453D59F-->  <AD_ELEMENT_ID><![CDATA[275]]></AD_ELEMENT_ID>
+<!--208021A9537641BAB0AFC4294453D59F--></AD_PROCESS_PARA>
+
+<!--3401DE925FBB4A3AAC72E914595E1C71--><AD_PROCESS_PARA>
+<!--3401DE925FBB4A3AAC72E914595E1C71-->  <AD_PROCESS_PARA_ID><![CDATA[3401DE925FBB4A3AAC72E914595E1C71]]></AD_PROCESS_PARA_ID>
+<!--3401DE925FBB4A3AAC72E914595E1C71-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--3401DE925FBB4A3AAC72E914595E1C71-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--3401DE925FBB4A3AAC72E914595E1C71-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--3401DE925FBB4A3AAC72E914595E1C71-->  <NAME><![CDATA[Process action]]></NAME>
+<!--3401DE925FBB4A3AAC72E914595E1C71-->  <AD_PROCESS_ID><![CDATA[5A2A0AF88AF54BB085DCC52FCC9B17B7]]></AD_PROCESS_ID>
+<!--3401DE925FBB4A3AAC72E914595E1C71-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--3401DE925FBB4A3AAC72E914595E1C71-->  <AD_REFERENCE_ID><![CDATA[17]]></AD_REFERENCE_ID>
+<!--3401DE925FBB4A3AAC72E914595E1C71-->  <AD_REFERENCE_VALUE_ID><![CDATA[440DDA64A43F4799AAFF48BC86DC8F78]]></AD_REFERENCE_VALUE_ID>
+<!--3401DE925FBB4A3AAC72E914595E1C71-->  <AD_VAL_RULE_ID><![CDATA[1645143617E44289A08A1EA4D617A184]]></AD_VAL_RULE_ID>
+<!--3401DE925FBB4A3AAC72E914595E1C71-->  <COLUMNNAME><![CDATA[RES_Action]]></COLUMNNAME>
+<!--3401DE925FBB4A3AAC72E914595E1C71-->  <ISCENTRALLYMAINTAINED><![CDATA[N]]></ISCENTRALLYMAINTAINED>
+<!--3401DE925FBB4A3AAC72E914595E1C71-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--3401DE925FBB4A3AAC72E914595E1C71-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--3401DE925FBB4A3AAC72E914595E1C71-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--3401DE925FBB4A3AAC72E914595E1C71-->  <AD_ELEMENT_ID><![CDATA[CC52016D7E7BA603E040007F01000DF9]]></AD_ELEMENT_ID>
+<!--3401DE925FBB4A3AAC72E914595E1C71--></AD_PROCESS_PARA>
+
+<!--340BDE0BCC744A32976670B43AF11443--><AD_PROCESS_PARA>
+<!--340BDE0BCC744A32976670B43AF11443-->  <AD_PROCESS_PARA_ID><![CDATA[340BDE0BCC744A32976670B43AF11443]]></AD_PROCESS_PARA_ID>
+<!--340BDE0BCC744A32976670B43AF11443-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--340BDE0BCC744A32976670B43AF11443-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--340BDE0BCC744A32976670B43AF11443-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--340BDE0BCC744A32976670B43AF11443-->  <NAME><![CDATA[Import Audit Info]]></NAME>
+<!--340BDE0BCC744A32976670B43AF11443-->  <DESCRIPTION><![CDATA[Determines if audit info should be imported]]></DESCRIPTION>
+<!--340BDE0BCC744A32976670B43AF11443-->  <HELP><![CDATA[Determines if audit info should be imported]]></HELP>
+<!--340BDE0BCC744A32976670B43AF11443-->  <AD_PROCESS_ID><![CDATA[970EAD9B846648A7AB1F0CCA5058356C]]></AD_PROCESS_ID>
+<!--340BDE0BCC744A32976670B43AF11443-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--340BDE0BCC744A32976670B43AF11443-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--340BDE0BCC744A32976670B43AF11443-->  <COLUMNNAME><![CDATA[ImportAuditInfo]]></COLUMNNAME>
+<!--340BDE0BCC744A32976670B43AF11443-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--340BDE0BCC744A32976670B43AF11443-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--340BDE0BCC744A32976670B43AF11443-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--340BDE0BCC744A32976670B43AF11443-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--340BDE0BCC744A32976670B43AF11443-->  <AD_ELEMENT_ID><![CDATA[01A78AEEF3C411DDB34B001D09C4A2FE]]></AD_ELEMENT_ID>
+<!--340BDE0BCC744A32976670B43AF11443--></AD_PROCESS_PARA>
+
+<!--35F3B0989DD94989BF0DD890A1842D6C--><AD_PROCESS_PARA>
+<!--35F3B0989DD94989BF0DD890A1842D6C-->  <AD_PROCESS_PARA_ID><![CDATA[35F3B0989DD94989BF0DD890A1842D6C]]></AD_PROCESS_PARA_ID>
+<!--35F3B0989DD94989BF0DD890A1842D6C-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--35F3B0989DD94989BF0DD890A1842D6C-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--35F3B0989DD94989BF0DD890A1842D6C-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--35F3B0989DD94989BF0DD890A1842D6C-->  <NAME><![CDATA[Export Audit Info]]></NAME>
+<!--35F3B0989DD94989BF0DD890A1842D6C-->  <DESCRIPTION><![CDATA[Determines if audit info is exported]]></DESCRIPTION>
+<!--35F3B0989DD94989BF0DD890A1842D6C-->  <HELP><![CDATA[Determines if audit info is exported]]></HELP>
+<!--35F3B0989DD94989BF0DD890A1842D6C-->  <AD_PROCESS_ID><![CDATA[D85D5B5E368A49B1A6293BA4AE15F0F9]]></AD_PROCESS_ID>
+<!--35F3B0989DD94989BF0DD890A1842D6C-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--35F3B0989DD94989BF0DD890A1842D6C-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--35F3B0989DD94989BF0DD890A1842D6C-->  <COLUMNNAME><![CDATA[ExportAuditInfo]]></COLUMNNAME>
+<!--35F3B0989DD94989BF0DD890A1842D6C-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--35F3B0989DD94989BF0DD890A1842D6C-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--35F3B0989DD94989BF0DD890A1842D6C-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--35F3B0989DD94989BF0DD890A1842D6C-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--35F3B0989DD94989BF0DD890A1842D6C-->  <AD_ELEMENT_ID><![CDATA[01A2AC68F3C411DD8A04001D09C4A2FE]]></AD_ELEMENT_ID>
+<!--35F3B0989DD94989BF0DD890A1842D6C--></AD_PROCESS_PARA>
+
+<!--5DB8F1E894624135AA82694065D5B8FE--><AD_PROCESS_PARA>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <AD_PROCESS_PARA_ID><![CDATA[5DB8F1E894624135AA82694065D5B8FE]]></AD_PROCESS_PARA_ID>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <NAME><![CDATA[Tax]]></NAME>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <DESCRIPTION><![CDATA[The percentage of money requested by the government for this specified product or transaction.]]></DESCRIPTION>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <HELP><![CDATA[The Tax indicates the type of tax for this document line.]]></HELP>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <AD_PROCESS_ID><![CDATA[23D1B163EC0B41F790CE39BF01DA320E]]></AD_PROCESS_ID>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <SEQNO><![CDATA[50]]></SEQNO>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <AD_VAL_RULE_ID><![CDATA[299FA667CF374AC5ACC74739C3251134]]></AD_VAL_RULE_ID>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <COLUMNNAME><![CDATA[C_Tax_ID]]></COLUMNNAME>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <FIELDLENGTH><![CDATA[32]]></FIELDLENGTH>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--5DB8F1E894624135AA82694065D5B8FE-->  <AD_ELEMENT_ID><![CDATA[213]]></AD_ELEMENT_ID>
+<!--5DB8F1E894624135AA82694065D5B8FE--></AD_PROCESS_PARA>
+
+<!--62D937E6DE704AD98DEE705A732D6786--><AD_PROCESS_PARA>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <AD_PROCESS_PARA_ID><![CDATA[62D937E6DE704AD98DEE705A732D6786]]></AD_PROCESS_PARA_ID>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <NAME><![CDATA[Create Adjustment Period]]></NAME>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <DESCRIPTION><![CDATA[Add 13th period for adjustment entries]]></DESCRIPTION>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <HELP><![CDATA[When flagged process creates 13th period to include manual accounting entries for adjustment purposes.]]></HELP>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <AD_PROCESS_ID><![CDATA[100]]></AD_PROCESS_ID>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <COLUMNNAME><![CDATA[CREATEADJUSTMENT]]></COLUMNNAME>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <DEFAULTVALUE><![CDATA[N]]></DEFAULTVALUE>
+<!--62D937E6DE704AD98DEE705A732D6786-->  <AD_ELEMENT_ID><![CDATA[4275E22E56264665A5036996A8045C8D]]></AD_ELEMENT_ID>
+<!--62D937E6DE704AD98DEE705A732D6786--></AD_PROCESS_PARA>
+
+<!--6E19A05CE9564C15BA5FAA118C005859--><AD_PROCESS_PARA>
+<!--6E19A05CE9564C15BA5FAA118C005859-->  <AD_PROCESS_PARA_ID><![CDATA[6E19A05CE9564C15BA5FAA118C005859]]></AD_PROCESS_PARA_ID>
+<!--6E19A05CE9564C15BA5FAA118C005859-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--6E19A05CE9564C15BA5FAA118C005859-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--6E19A05CE9564C15BA5FAA118C005859-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--6E19A05CE9564C15BA5FAA118C005859-->  <NAME><![CDATA[Language]]></NAME>
+<!--6E19A05CE9564C15BA5FAA118C005859-->  <AD_PROCESS_ID><![CDATA[100]]></AD_PROCESS_ID>
+<!--6E19A05CE9564C15BA5FAA118C005859-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--6E19A05CE9564C15BA5FAA118C005859-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--6E19A05CE9564C15BA5FAA118C005859-->  <AD_VAL_RULE_ID><![CDATA[E2628841519247358C005033E0C9AF61]]></AD_VAL_RULE_ID>
+<!--6E19A05CE9564C15BA5FAA118C005859-->  <COLUMNNAME><![CDATA[AD_LANGUAGE_ID]]></COLUMNNAME>
+<!--6E19A05CE9564C15BA5FAA118C005859-->  <ISCENTRALLYMAINTAINED><![CDATA[N]]></ISCENTRALLYMAINTAINED>
+<!--6E19A05CE9564C15BA5FAA118C005859-->  <FIELDLENGTH><![CDATA[32]]></FIELDLENGTH>
+<!--6E19A05CE9564C15BA5FAA118C005859-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--6E19A05CE9564C15BA5FAA118C005859-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--6E19A05CE9564C15BA5FAA118C005859-->  <DEFAULTVALUE><![CDATA[@SQL=SELECT AD_LANGUAGE_ID FROM AD_LANGUAGE WHERE AD_LANGUAGE = @#AD_LANGUAGE@]]></DEFAULTVALUE>
+<!--6E19A05CE9564C15BA5FAA118C005859-->  <AD_ELEMENT_ID><![CDATA[2159]]></AD_ELEMENT_ID>
+<!--6E19A05CE9564C15BA5FAA118C005859--></AD_PROCESS_PARA>
+
+<!--70B21DAE5E064CEF822273BDF43B64E4--><AD_PROCESS_PARA>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <AD_PROCESS_PARA_ID><![CDATA[70B21DAE5E064CEF822273BDF43B64E4]]></AD_PROCESS_PARA_ID>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <NAME><![CDATA[Payment Priority]]></NAME>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <DESCRIPTION><![CDATA[Sets the priority of the payment plans generated when processing the invoice or order.]]></DESCRIPTION>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <HELP><![CDATA[Sets the priority of the payment plans generated when processing the invoice or order.
+The distribution algorithm will be driven by this priority. The pending payments for order or payments will be displayed ordered by the payment priority first and then by the due date.]]></HELP>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <AD_PROCESS_ID><![CDATA[FB740AB61B0E42B198D2C88D3A0D0CE6]]></AD_PROCESS_ID>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <COLUMNNAME><![CDATA[FIN_Payment_Priority_ID]]></COLUMNNAME>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <FIELDLENGTH><![CDATA[32]]></FIELDLENGTH>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <DEFAULTVALUE><![CDATA[@FIN_Payment_Priority_ID@]]></DEFAULTVALUE>
+<!--70B21DAE5E064CEF822273BDF43B64E4-->  <AD_ELEMENT_ID><![CDATA[666DC9641DCD4F84A24188AFFC251687]]></AD_ELEMENT_ID>
+<!--70B21DAE5E064CEF822273BDF43B64E4--></AD_PROCESS_PARA>
+
+<!--7144D3B5D3254D118A501450DD94CC70--><AD_PROCESS_PARA>
+<!--7144D3B5D3254D118A501450DD94CC70-->  <AD_PROCESS_PARA_ID><![CDATA[7144D3B5D3254D118A501450DD94CC70]]></AD_PROCESS_PARA_ID>
+<!--7144D3B5D3254D118A501450DD94CC70-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--7144D3B5D3254D118A501450DD94CC70-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--7144D3B5D3254D118A501450DD94CC70-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--7144D3B5D3254D118A501450DD94CC70-->  <NAME><![CDATA[Withholding]]></NAME>
+<!--7144D3B5D3254D118A501450DD94CC70-->  <DESCRIPTION><![CDATA[Withholding]]></DESCRIPTION>
+<!--7144D3B5D3254D118A501450DD94CC70-->  <HELP><![CDATA[The Withholding indicates the type of withholding to be calculated.]]></HELP>
+<!--7144D3B5D3254D118A501450DD94CC70-->  <AD_PROCESS_ID><![CDATA[800126]]></AD_PROCESS_ID>
+<!--7144D3B5D3254D118A501450DD94CC70-->  <SEQNO><![CDATA[90]]></SEQNO>
+<!--7144D3B5D3254D118A501450DD94CC70-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--7144D3B5D3254D118A501450DD94CC70-->  <COLUMNNAME><![CDATA[C_Withholding_ID]]></COLUMNNAME>
+<!--7144D3B5D3254D118A501450DD94CC70-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--7144D3B5D3254D118A501450DD94CC70-->  <FIELDLENGTH><![CDATA[12]]></FIELDLENGTH>
+<!--7144D3B5D3254D118A501450DD94CC70-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--7144D3B5D3254D118A501450DD94CC70-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--7144D3B5D3254D118A501450DD94CC70-->  <AD_ELEMENT_ID><![CDATA[839]]></AD_ELEMENT_ID>
+<!--7144D3B5D3254D118A501450DD94CC70--></AD_PROCESS_PARA>
+
+<!--73C3F0DC9B624A0BB72D5A5952FD8135--><AD_PROCESS_PARA>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135-->  <AD_PROCESS_PARA_ID><![CDATA[73C3F0DC9B624A0BB72D5A5952FD8135]]></AD_PROCESS_PARA_ID>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135-->  <NAME><![CDATA[Client]]></NAME>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135-->  <DESCRIPTION><![CDATA[Client for this installation.]]></DESCRIPTION>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135-->  <HELP><![CDATA[A Client is a company or a legal entity. You cannot share data between Clients.]]></HELP>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135-->  <AD_PROCESS_ID><![CDATA[D85D5B5E368A49B1A6293BA4AE15F0F9]]></AD_PROCESS_ID>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135-->  <COLUMNNAME><![CDATA[AD_Client_ID]]></COLUMNNAME>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135-->  <AD_ELEMENT_ID><![CDATA[102]]></AD_ELEMENT_ID>
+<!--73C3F0DC9B624A0BB72D5A5952FD8135--></AD_PROCESS_PARA>
+
+<!--7F940C10CC42401DBBCE7834A96DCE61--><AD_PROCESS_PARA>
+<!--7F940C10CC42401DBBCE7834A96DCE61-->  <AD_PROCESS_PARA_ID><![CDATA[7F940C10CC42401DBBCE7834A96DCE61]]></AD_PROCESS_PARA_ID>
+<!--7F940C10CC42401DBBCE7834A96DCE61-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--7F940C10CC42401DBBCE7834A96DCE61-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--7F940C10CC42401DBBCE7834A96DCE61-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--7F940C10CC42401DBBCE7834A96DCE61-->  <NAME><![CDATA[Receipt]]></NAME>
+<!--7F940C10CC42401DBBCE7834A96DCE61-->  <DESCRIPTION><![CDATA[Indicates a sales or purchase transaction.]]></DESCRIPTION>
+<!--7F940C10CC42401DBBCE7834A96DCE61-->  <HELP><![CDATA[Indicated a sales transaction (Accounts Receivable if Receipt=Y) or a purchase transaction (Accounts Payable if Receipt=N).]]></HELP>
+<!--7F940C10CC42401DBBCE7834A96DCE61-->  <AD_PROCESS_ID><![CDATA[D56220370A774B7FA51323BE3C6E0F22]]></AD_PROCESS_ID>
+<!--7F940C10CC42401DBBCE7834A96DCE61-->  <SEQNO><![CDATA[60]]></SEQNO>
+<!--7F940C10CC42401DBBCE7834A96DCE61-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--7F940C10CC42401DBBCE7834A96DCE61-->  <COLUMNNAME><![CDATA[IsReceipt]]></COLUMNNAME>
+<!--7F940C10CC42401DBBCE7834A96DCE61-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--7F940C10CC42401DBBCE7834A96DCE61-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--7F940C10CC42401DBBCE7834A96DCE61-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--7F940C10CC42401DBBCE7834A96DCE61-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--7F940C10CC42401DBBCE7834A96DCE61-->  <AD_ELEMENT_ID><![CDATA[1634]]></AD_ELEMENT_ID>
+<!--7F940C10CC42401DBBCE7834A96DCE61--></AD_PROCESS_PARA>
+
+<!--83BBC36B706642A39448DD2342B291F3--><AD_PROCESS_PARA>
+<!--83BBC36B706642A39448DD2342B291F3-->  <AD_PROCESS_PARA_ID><![CDATA[83BBC36B706642A39448DD2342B291F3]]></AD_PROCESS_PARA_ID>
+<!--83BBC36B706642A39448DD2342B291F3-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--83BBC36B706642A39448DD2342B291F3-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--83BBC36B706642A39448DD2342B291F3-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--83BBC36B706642A39448DD2342B291F3-->  <NAME><![CDATA[Status]]></NAME>
+<!--83BBC36B706642A39448DD2342B291F3-->  <DESCRIPTION><![CDATA[A defined state or position of a payment.]]></DESCRIPTION>
+<!--83BBC36B706642A39448DD2342B291F3-->  <HELP><![CDATA[Current status of a debt/payment.]]></HELP>
+<!--83BBC36B706642A39448DD2342B291F3-->  <AD_PROCESS_ID><![CDATA[800126]]></AD_PROCESS_ID>
+<!--83BBC36B706642A39448DD2342B291F3-->  <SEQNO><![CDATA[80]]></SEQNO>
+<!--83BBC36B706642A39448DD2342B291F3-->  <AD_REFERENCE_ID><![CDATA[17]]></AD_REFERENCE_ID>
+<!--83BBC36B706642A39448DD2342B291F3-->  <AD_REFERENCE_VALUE_ID><![CDATA[800070]]></AD_REFERENCE_VALUE_ID>
+<!--83BBC36B706642A39448DD2342B291F3-->  <COLUMNNAME><![CDATA[Status]]></COLUMNNAME>
+<!--83BBC36B706642A39448DD2342B291F3-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--83BBC36B706642A39448DD2342B291F3-->  <FIELDLENGTH><![CDATA[12]]></FIELDLENGTH>
+<!--83BBC36B706642A39448DD2342B291F3-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--83BBC36B706642A39448DD2342B291F3-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--83BBC36B706642A39448DD2342B291F3-->  <DEFAULTVALUE><![CDATA[DE]]></DEFAULTVALUE>
+<!--83BBC36B706642A39448DD2342B291F3-->  <AD_ELEMENT_ID><![CDATA[800632]]></AD_ELEMENT_ID>
+<!--83BBC36B706642A39448DD2342B291F3--></AD_PROCESS_PARA>
+
+<!--97266E0DF6A24EC0BC6845B9E305F307--><AD_PROCESS_PARA>
+<!--97266E0DF6A24EC0BC6845B9E305F307-->  <AD_PROCESS_PARA_ID><![CDATA[97266E0DF6A24EC0BC6845B9E305F307]]></AD_PROCESS_PARA_ID>
+<!--97266E0DF6A24EC0BC6845B9E305F307-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--97266E0DF6A24EC0BC6845B9E305F307-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--97266E0DF6A24EC0BC6845B9E305F307-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--97266E0DF6A24EC0BC6845B9E305F307-->  <NAME><![CDATA[Unit Price]]></NAME>
+<!--97266E0DF6A24EC0BC6845B9E305F307-->  <DESCRIPTION><![CDATA[The regular or normal price of a product in the respective price list.]]></DESCRIPTION>
+<!--97266E0DF6A24EC0BC6845B9E305F307-->  <HELP><![CDATA[The Standard Price indicates the standard or normal price for a product on this price list. This price might be net or gross depending on its price list configuration.]]></HELP>
+<!--97266E0DF6A24EC0BC6845B9E305F307-->  <AD_PROCESS_ID><![CDATA[23D1B163EC0B41F790CE39BF01DA320E]]></AD_PROCESS_ID>
+<!--97266E0DF6A24EC0BC6845B9E305F307-->  <SEQNO><![CDATA[40]]></SEQNO>
+<!--97266E0DF6A24EC0BC6845B9E305F307-->  <AD_REFERENCE_ID><![CDATA[800008]]></AD_REFERENCE_ID>
+<!--97266E0DF6A24EC0BC6845B9E305F307-->  <COLUMNNAME><![CDATA[PriceStd]]></COLUMNNAME>
+<!--97266E0DF6A24EC0BC6845B9E305F307-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--97266E0DF6A24EC0BC6845B9E305F307-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--97266E0DF6A24EC0BC6845B9E305F307-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--97266E0DF6A24EC0BC6845B9E305F307-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--97266E0DF6A24EC0BC6845B9E305F307-->  <AD_ELEMENT_ID><![CDATA[957]]></AD_ELEMENT_ID>
+<!--97266E0DF6A24EC0BC6845B9E305F307--></AD_PROCESS_PARA>
+
+<!--A49C24DB7D4E423183D1C18CA79F4861--><AD_PROCESS_PARA>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <AD_PROCESS_PARA_ID><![CDATA[A49C24DB7D4E423183D1C18CA79F4861]]></AD_PROCESS_PARA_ID>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <NAME><![CDATA[General Ledger]]></NAME>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <DESCRIPTION><![CDATA[The book containing all financial transactions recorded for the legal entity.]]></DESCRIPTION>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <HELP><![CDATA[The book containing all financial transactions recorded for the legal entity.]]></HELP>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <AD_PROCESS_ID><![CDATA[800136]]></AD_PROCESS_ID>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <AD_VAL_RULE_ID><![CDATA[FF8081812F06A183012F07323A2A001C]]></AD_VAL_RULE_ID>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <COLUMNNAME><![CDATA[C_AcctSchema_ID]]></COLUMNNAME>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <DEFAULTVALUE><![CDATA[@C_AcctSchema_ID@]]></DEFAULTVALUE>
+<!--A49C24DB7D4E423183D1C18CA79F4861-->  <AD_ELEMENT_ID><![CDATA[181]]></AD_ELEMENT_ID>
+<!--A49C24DB7D4E423183D1C18CA79F4861--></AD_PROCESS_PARA>
+
+<!--A822BEFB7FB64D3C91F076748714CECE--><AD_PROCESS_PARA>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <AD_PROCESS_PARA_ID><![CDATA[A822BEFB7FB64D3C91F076748714CECE]]></AD_PROCESS_PARA_ID>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <NAME><![CDATA[Product]]></NAME>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <DESCRIPTION><![CDATA[An item produced by a process.]]></DESCRIPTION>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <HELP><![CDATA[Identifies an item which is either purchased or sold in this organization.]]></HELP>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <AD_PROCESS_ID><![CDATA[23D1B163EC0B41F790CE39BF01DA320E]]></AD_PROCESS_ID>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <AD_REFERENCE_ID><![CDATA[95E2A8B50A254B2AAE6774B8C2F28120]]></AD_REFERENCE_ID>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <AD_REFERENCE_VALUE_ID><![CDATA[FF808181312DA8D801312DDDAA750008]]></AD_REFERENCE_VALUE_ID>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <COLUMNNAME><![CDATA[M_Product_ID]]></COLUMNNAME>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <FIELDLENGTH><![CDATA[32]]></FIELDLENGTH>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--A822BEFB7FB64D3C91F076748714CECE-->  <AD_ELEMENT_ID><![CDATA[454]]></AD_ELEMENT_ID>
+<!--A822BEFB7FB64D3C91F076748714CECE--></AD_PROCESS_PARA>
+
+<!--A88B1DDE069E49BE9AE84717B088156D--><AD_PROCESS_PARA>
+<!--A88B1DDE069E49BE9AE84717B088156D-->  <AD_PROCESS_PARA_ID><![CDATA[A88B1DDE069E49BE9AE84717B088156D]]></AD_PROCESS_PARA_ID>
+<!--A88B1DDE069E49BE9AE84717B088156D-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--A88B1DDE069E49BE9AE84717B088156D-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--A88B1DDE069E49BE9AE84717B088156D-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--A88B1DDE069E49BE9AE84717B088156D-->  <NAME><![CDATA[Due Date]]></NAME>
+<!--A88B1DDE069E49BE9AE84717B088156D-->  <DESCRIPTION><![CDATA[The date when a specified request must be carried out by.]]></DESCRIPTION>
+<!--A88B1DDE069E49BE9AE84717B088156D-->  <HELP><![CDATA[Refers to a date by which the payment must be completed.]]></HELP>
+<!--A88B1DDE069E49BE9AE84717B088156D-->  <AD_PROCESS_ID><![CDATA[D56220370A774B7FA51323BE3C6E0F22]]></AD_PROCESS_ID>
+<!--A88B1DDE069E49BE9AE84717B088156D-->  <SEQNO><![CDATA[50]]></SEQNO>
+<!--A88B1DDE069E49BE9AE84717B088156D-->  <AD_REFERENCE_ID><![CDATA[15]]></AD_REFERENCE_ID>
+<!--A88B1DDE069E49BE9AE84717B088156D-->  <COLUMNNAME><![CDATA[Dateplanned]]></COLUMNNAME>
+<!--A88B1DDE069E49BE9AE84717B088156D-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--A88B1DDE069E49BE9AE84717B088156D-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--A88B1DDE069E49BE9AE84717B088156D-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--A88B1DDE069E49BE9AE84717B088156D-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--A88B1DDE069E49BE9AE84717B088156D-->  <AD_ELEMENT_ID><![CDATA[800063]]></AD_ELEMENT_ID>
+<!--A88B1DDE069E49BE9AE84717B088156D--></AD_PROCESS_PARA>
+
+<!--AC9ACA128F3B408A832EAEA1892AFE89--><AD_PROCESS_PARA>
+<!--AC9ACA128F3B408A832EAEA1892AFE89-->  <AD_PROCESS_PARA_ID><![CDATA[AC9ACA128F3B408A832EAEA1892AFE89]]></AD_PROCESS_PARA_ID>
+<!--AC9ACA128F3B408A832EAEA1892AFE89-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--AC9ACA128F3B408A832EAEA1892AFE89-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--AC9ACA128F3B408A832EAEA1892AFE89-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--AC9ACA128F3B408A832EAEA1892AFE89-->  <NAME><![CDATA[Amount]]></NAME>
+<!--AC9ACA128F3B408A832EAEA1892AFE89-->  <DESCRIPTION><![CDATA[A monetary total.]]></DESCRIPTION>
+<!--AC9ACA128F3B408A832EAEA1892AFE89-->  <HELP><![CDATA[The Amount indicates the amount for this document line.]]></HELP>
+<!--AC9ACA128F3B408A832EAEA1892AFE89-->  <AD_PROCESS_ID><![CDATA[D56220370A774B7FA51323BE3C6E0F22]]></AD_PROCESS_ID>
+<!--AC9ACA128F3B408A832EAEA1892AFE89-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--AC9ACA128F3B408A832EAEA1892AFE89-->  <AD_REFERENCE_ID><![CDATA[12]]></AD_REFERENCE_ID>
+<!--AC9ACA128F3B408A832EAEA1892AFE89-->  <COLUMNNAME><![CDATA[Amount]]></COLUMNNAME>
+<!--AC9ACA128F3B408A832EAEA1892AFE89-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--AC9ACA128F3B408A832EAEA1892AFE89-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--AC9ACA128F3B408A832EAEA1892AFE89-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--AC9ACA128F3B408A832EAEA1892AFE89-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--AC9ACA128F3B408A832EAEA1892AFE89-->  <AD_ELEMENT_ID><![CDATA[1367]]></AD_ELEMENT_ID>
+<!--AC9ACA128F3B408A832EAEA1892AFE89--></AD_PROCESS_PARA>
+
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2--><AD_PROCESS_PARA>
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2-->  <AD_PROCESS_PARA_ID><![CDATA[AF2A1675BB4746C3B58BAA4C1E551CF2]]></AD_PROCESS_PARA_ID>
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2-->  <NAME><![CDATA[Firm Quote]]></NAME>
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2-->  <AD_PROCESS_ID><![CDATA[A3FE1F9892394386A49FB707AA50A0FA]]></AD_PROCESS_ID>
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2-->  <COLUMNNAME><![CDATA[RecalculatePrices]]></COLUMNNAME>
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2-->  <DEFAULTVALUE><![CDATA[Y]]></DEFAULTVALUE>
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2-->  <AD_ELEMENT_ID><![CDATA[03A29E24DCBB40E3B24F54F45762E2B5]]></AD_ELEMENT_ID>
+<!--AF2A1675BB4746C3B58BAA4C1E551CF2--></AD_PROCESS_PARA>
+
+<!--B4E1115D7500416CAA7ED85C1F491998--><AD_PROCESS_PARA>
+<!--B4E1115D7500416CAA7ED85C1F491998-->  <AD_PROCESS_PARA_ID><![CDATA[B4E1115D7500416CAA7ED85C1F491998]]></AD_PROCESS_PARA_ID>
+<!--B4E1115D7500416CAA7ED85C1F491998-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--B4E1115D7500416CAA7ED85C1F491998-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--B4E1115D7500416CAA7ED85C1F491998-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--B4E1115D7500416CAA7ED85C1F491998-->  <NAME><![CDATA[Return Reason]]></NAME>
+<!--B4E1115D7500416CAA7ED85C1F491998-->  <AD_PROCESS_ID><![CDATA[23D1B163EC0B41F790CE39BF01DA320E]]></AD_PROCESS_ID>
+<!--B4E1115D7500416CAA7ED85C1F491998-->  <SEQNO><![CDATA[60]]></SEQNO>
+<!--B4E1115D7500416CAA7ED85C1F491998-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--B4E1115D7500416CAA7ED85C1F491998-->  <COLUMNNAME><![CDATA[C_Return_Reason_ID]]></COLUMNNAME>
+<!--B4E1115D7500416CAA7ED85C1F491998-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--B4E1115D7500416CAA7ED85C1F491998-->  <FIELDLENGTH><![CDATA[32]]></FIELDLENGTH>
+<!--B4E1115D7500416CAA7ED85C1F491998-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--B4E1115D7500416CAA7ED85C1F491998-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--B4E1115D7500416CAA7ED85C1F491998-->  <AD_ELEMENT_ID><![CDATA[44CBD6E9427241D1B8052EC48012FC6C]]></AD_ELEMENT_ID>
+<!--B4E1115D7500416CAA7ED85C1F491998--></AD_PROCESS_PARA>
+
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D--><AD_PROCESS_PARA>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <AD_PROCESS_PARA_ID><![CDATA[C4B24CB8FFC84E5FB5E7AE6BC15B913D]]></AD_PROCESS_PARA_ID>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <NAME><![CDATA[Warehouse]]></NAME>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <DESCRIPTION><![CDATA[The location where products arrive to or are sent from.]]></DESCRIPTION>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <HELP><![CDATA[The Warehouse identifies a unique Warehouse where products are stored or Services are provided.]]></HELP>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <AD_PROCESS_ID><![CDATA[7CB6B4D1ECCF4036B3F111D2CF11AADE]]></AD_PROCESS_ID>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <COLUMNNAME><![CDATA[M_Warehouse_ID]]></COLUMNNAME>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <DEFAULTVALUE><![CDATA[@#M_Warehouse_ID@]]></DEFAULTVALUE>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D-->  <AD_ELEMENT_ID><![CDATA[459]]></AD_ELEMENT_ID>
+<!--C4B24CB8FFC84E5FB5E7AE6BC15B913D--></AD_PROCESS_PARA>
+
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5--><AD_PROCESS_PARA>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <AD_PROCESS_PARA_ID><![CDATA[CB8D3FBA02B84AEFB90CB2AD3D5D6FD5]]></AD_PROCESS_PARA_ID>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <NAME><![CDATA[Currency]]></NAME>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <DESCRIPTION><![CDATA[An accepted medium of monetary exchange that may vary across countries.]]></DESCRIPTION>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <HELP><![CDATA[Indicates the currency to be used when processing this document.]]></HELP>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <AD_PROCESS_ID><![CDATA[D56220370A774B7FA51323BE3C6E0F22]]></AD_PROCESS_ID>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <SEQNO><![CDATA[30]]></SEQNO>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <COLUMNNAME><![CDATA[C_Currency_ID]]></COLUMNNAME>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <FIELDLENGTH><![CDATA[12]]></FIELDLENGTH>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <DEFAULTVALUE><![CDATA[@$C_Currency_ID@]]></DEFAULTVALUE>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5-->  <AD_ELEMENT_ID><![CDATA[193]]></AD_ELEMENT_ID>
+<!--CB8D3FBA02B84AEFB90CB2AD3D5D6FD5--></AD_PROCESS_PARA>
+
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF--><AD_PROCESS_PARA>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <AD_PROCESS_PARA_ID><![CDATA[D906A4F1EF4E4372A32DDD1BD34A54BF]]></AD_PROCESS_PARA_ID>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <NAME><![CDATA[Cascade]]></NAME>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <DESCRIPTION><![CDATA[Also mark as ready organization every child organization]]></DESCRIPTION>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <HELP><![CDATA[Also mark as ready organization every child organization]]></HELP>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <AD_PROCESS_ID><![CDATA[53863D4359114ADE92133F772135AEEB]]></AD_PROCESS_ID>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <COLUMNNAME><![CDATA[Cascade]]></COLUMNNAME>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <ISCENTRALLYMAINTAINED><![CDATA[N]]></ISCENTRALLYMAINTAINED>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <DEFAULTVALUE><![CDATA[N]]></DEFAULTVALUE>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF-->  <AD_ELEMENT_ID><![CDATA[800177]]></AD_ELEMENT_ID>
+<!--D906A4F1EF4E4372A32DDD1BD34A54BF--></AD_PROCESS_PARA>
+
+<!--DCB60794671A4787A0718FB918CD9CEE--><AD_PROCESS_PARA>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <AD_PROCESS_PARA_ID><![CDATA[DCB60794671A4787A0718FB918CD9CEE]]></AD_PROCESS_PARA_ID>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <NAME><![CDATA[Business Partner]]></NAME>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <DESCRIPTION><![CDATA[Anyone who takes part in daily business operations by acting as a customer, employee, etc.]]></DESCRIPTION>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <HELP><![CDATA[A Business Partner is anyone with whom you transact.  This can include a customer, vendor, employee or any combination of these.]]></HELP>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <AD_PROCESS_ID><![CDATA[D56220370A774B7FA51323BE3C6E0F22]]></AD_PROCESS_ID>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <AD_REFERENCE_ID><![CDATA[30]]></AD_REFERENCE_ID>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <AD_REFERENCE_VALUE_ID><![CDATA[800057]]></AD_REFERENCE_VALUE_ID>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <COLUMNNAME><![CDATA[C_BPartner_ID]]></COLUMNNAME>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <FIELDLENGTH><![CDATA[20]]></FIELDLENGTH>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--DCB60794671A4787A0718FB918CD9CEE-->  <AD_ELEMENT_ID><![CDATA[187]]></AD_ELEMENT_ID>
+<!--DCB60794671A4787A0718FB918CD9CEE--></AD_PROCESS_PARA>
+
+<!--DD67C43EBCE14230AC3F04A2904231EB--><AD_PROCESS_PARA>
+<!--DD67C43EBCE14230AC3F04A2904231EB-->  <AD_PROCESS_PARA_ID><![CDATA[DD67C43EBCE14230AC3F04A2904231EB]]></AD_PROCESS_PARA_ID>
+<!--DD67C43EBCE14230AC3F04A2904231EB-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--DD67C43EBCE14230AC3F04A2904231EB-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--DD67C43EBCE14230AC3F04A2904231EB-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--DD67C43EBCE14230AC3F04A2904231EB-->  <NAME><![CDATA[Withholdingamount]]></NAME>
+<!--DD67C43EBCE14230AC3F04A2904231EB-->  <DESCRIPTION><![CDATA[Withholding amount]]></DESCRIPTION>
+<!--DD67C43EBCE14230AC3F04A2904231EB-->  <AD_PROCESS_ID><![CDATA[800126]]></AD_PROCESS_ID>
+<!--DD67C43EBCE14230AC3F04A2904231EB-->  <SEQNO><![CDATA[100]]></SEQNO>
+<!--DD67C43EBCE14230AC3F04A2904231EB-->  <AD_REFERENCE_ID><![CDATA[12]]></AD_REFERENCE_ID>
+<!--DD67C43EBCE14230AC3F04A2904231EB-->  <COLUMNNAME><![CDATA[WithholdingAmount]]></COLUMNNAME>
+<!--DD67C43EBCE14230AC3F04A2904231EB-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--DD67C43EBCE14230AC3F04A2904231EB-->  <FIELDLENGTH><![CDATA[12]]></FIELDLENGTH>
+<!--DD67C43EBCE14230AC3F04A2904231EB-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--DD67C43EBCE14230AC3F04A2904231EB-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--DD67C43EBCE14230AC3F04A2904231EB-->  <AD_ELEMENT_ID><![CDATA[1002100005]]></AD_ELEMENT_ID>
+<!--DD67C43EBCE14230AC3F04A2904231EB--></AD_PROCESS_PARA>
+
+<!--DEFA8930096D44C789B2F29FAEF6FDF4--><AD_PROCESS_PARA>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <AD_PROCESS_PARA_ID><![CDATA[DEFA8930096D44C789B2F29FAEF6FDF4]]></AD_PROCESS_PARA_ID>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <NAME><![CDATA[Action]]></NAME>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <DESCRIPTION><![CDATA[A drop down list box indicating the next step to take.]]></DESCRIPTION>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <HELP><![CDATA[The Action field indicates the Action to be performed for this element.]]></HELP>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <AD_PROCESS_ID><![CDATA[800131]]></AD_PROCESS_ID>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <AD_REFERENCE_ID><![CDATA[17]]></AD_REFERENCE_ID>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <AD_REFERENCE_VALUE_ID><![CDATA[657B89EF105149F2B011CF8F5034FF92]]></AD_REFERENCE_VALUE_ID>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <AD_VAL_RULE_ID><![CDATA[C5A7AABB91A440EBAA53A0222B99FF2F]]></AD_VAL_RULE_ID>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <COLUMNNAME><![CDATA[action]]></COLUMNNAME>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <FIELDLENGTH><![CDATA[0]]></FIELDLENGTH>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4-->  <AD_ELEMENT_ID><![CDATA[152]]></AD_ELEMENT_ID>
+<!--DEFA8930096D44C789B2F29FAEF6FDF4--></AD_PROCESS_PARA>
+
+<!--E15C3460969D4583BD954308E715C5D4--><AD_PROCESS_PARA>
+<!--E15C3460969D4583BD954308E715C5D4-->  <AD_PROCESS_PARA_ID><![CDATA[E15C3460969D4583BD954308E715C5D4]]></AD_PROCESS_PARA_ID>
+<!--E15C3460969D4583BD954308E715C5D4-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--E15C3460969D4583BD954308E715C5D4-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--E15C3460969D4583BD954308E715C5D4-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--E15C3460969D4583BD954308E715C5D4-->  <NAME><![CDATA[Returned]]></NAME>
+<!--E15C3460969D4583BD954308E715C5D4-->  <DESCRIPTION><![CDATA[Returned]]></DESCRIPTION>
+<!--E15C3460969D4583BD954308E715C5D4-->  <HELP><![CDATA[If it is checked means that the debt/payment has been returned by the bank.]]></HELP>
+<!--E15C3460969D4583BD954308E715C5D4-->  <AD_PROCESS_ID><![CDATA[23D1B163EC0B41F790CE39BF01DA320E]]></AD_PROCESS_ID>
+<!--E15C3460969D4583BD954308E715C5D4-->  <SEQNO><![CDATA[30]]></SEQNO>
+<!--E15C3460969D4583BD954308E715C5D4-->  <AD_REFERENCE_ID><![CDATA[29]]></AD_REFERENCE_ID>
+<!--E15C3460969D4583BD954308E715C5D4-->  <COLUMNNAME><![CDATA[Returned]]></COLUMNNAME>
+<!--E15C3460969D4583BD954308E715C5D4-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--E15C3460969D4583BD954308E715C5D4-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--E15C3460969D4583BD954308E715C5D4-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--E15C3460969D4583BD954308E715C5D4-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--E15C3460969D4583BD954308E715C5D4-->  <AD_ELEMENT_ID><![CDATA[800653]]></AD_ELEMENT_ID>
+<!--E15C3460969D4583BD954308E715C5D4--></AD_PROCESS_PARA>
+
+<!--F6C130E3B2DD4414A162FC6BA4F2808E--><AD_PROCESS_PARA>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <AD_PROCESS_PARA_ID><![CDATA[F6C130E3B2DD4414A162FC6BA4F2808E]]></AD_PROCESS_PARA_ID>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <NAME><![CDATA[Due Date]]></NAME>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <DESCRIPTION><![CDATA[The date when a specified request must be carried out by.]]></DESCRIPTION>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <HELP><![CDATA[Date when the payment is due without deductions or discount]]></HELP>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <AD_PROCESS_ID><![CDATA[FB740AB61B0E42B198D2C88D3A0D0CE6]]></AD_PROCESS_ID>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <AD_REFERENCE_ID><![CDATA[15]]></AD_REFERENCE_ID>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <COLUMNNAME><![CDATA[DueDate]]></COLUMNNAME>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <FIELDLENGTH><![CDATA[10]]></FIELDLENGTH>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <DEFAULTVALUE><![CDATA[@Duedate@]]></DEFAULTVALUE>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E-->  <AD_ELEMENT_ID><![CDATA[2000]]></AD_ELEMENT_ID>
+<!--F6C130E3B2DD4414A162FC6BA4F2808E--></AD_PROCESS_PARA>
+
+<!--FF80818132200CAA0132200F00B80007--><AD_PROCESS_PARA>
+<!--FF80818132200CAA0132200F00B80007-->  <AD_PROCESS_PARA_ID><![CDATA[FF80818132200CAA0132200F00B80007]]></AD_PROCESS_PARA_ID>
+<!--FF80818132200CAA0132200F00B80007-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--FF80818132200CAA0132200F00B80007-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--FF80818132200CAA0132200F00B80007-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--FF80818132200CAA0132200F00B80007-->  <NAME><![CDATA[Search Key]]></NAME>
+<!--FF80818132200CAA0132200F00B80007-->  <DESCRIPTION><![CDATA[A fast method for finding a particular record.]]></DESCRIPTION>
+<!--FF80818132200CAA0132200F00B80007-->  <HELP><![CDATA[A search key allows for a fast method of finding a particular record. If you leave the search key empty, the system automatically creates a numeric number originating from a document sequence defined in the  "Document Sequence" window. The sequence naming convention follows a rule "DocumentNo_TableName", where TableName is the actual name of the database table (e.g. C_Order).
+
+Usually, company's internal identifiers for various records (products, customers, etc) are stored here.]]></HELP>
+<!--FF80818132200CAA0132200F00B80007-->  <AD_PROCESS_ID><![CDATA[FF8081813219E68E013219ECFE930004]]></AD_PROCESS_ID>
+<!--FF80818132200CAA0132200F00B80007-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--FF80818132200CAA0132200F00B80007-->  <AD_REFERENCE_ID><![CDATA[10]]></AD_REFERENCE_ID>
+<!--FF80818132200CAA0132200F00B80007-->  <COLUMNNAME><![CDATA[Value]]></COLUMNNAME>
+<!--FF80818132200CAA0132200F00B80007-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--FF80818132200CAA0132200F00B80007-->  <FIELDLENGTH><![CDATA[40]]></FIELDLENGTH>
+<!--FF80818132200CAA0132200F00B80007-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--FF80818132200CAA0132200F00B80007-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--FF80818132200CAA0132200F00B80007-->  <DEFAULTVALUE><![CDATA[@SQL=SELECT M_PRODUCT.VALUE||' - '||MA_SEQUENCE.VALUE||' - '||MA_SEQUENCE.SEQNO AS value FROM MA_SEQUENCEPRODUCT JOIN MA_SEQUENCE ON MA_SEQUENCE.MA_SEQUENCE_ID = MA_SEQUENCEPRODUCT.MA_SEQUENCE_ID LEFT JOIN M_PRODUCT ON MA_SEQUENCEPRODUCT.M_PRODUCT_ID = M_PRODUCT.M_PRODUCT_ID WHERE MA_SEQUENCEPRODUCT_ID = @MA_SEQUENCEPRODUCT_ID@]]></DEFAULTVALUE>
+<!--FF80818132200CAA0132200F00B80007-->  <AD_ELEMENT_ID><![CDATA[620]]></AD_ELEMENT_ID>
+<!--FF80818132200CAA0132200F00B80007--></AD_PROCESS_PARA>
+
+<!--FF80818132202C17013223D76B72002C--><AD_PROCESS_PARA>
+<!--FF80818132202C17013223D76B72002C-->  <AD_PROCESS_PARA_ID><![CDATA[FF80818132202C17013223D76B72002C]]></AD_PROCESS_PARA_ID>
+<!--FF80818132202C17013223D76B72002C-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--FF80818132202C17013223D76B72002C-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--FF80818132202C17013223D76B72002C-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--FF80818132202C17013223D76B72002C-->  <NAME><![CDATA[Name]]></NAME>
+<!--FF80818132202C17013223D76B72002C-->  <DESCRIPTION><![CDATA[A non-unique identifier for a record/document often used as a search tool.]]></DESCRIPTION>
+<!--FF80818132202C17013223D76B72002C-->  <HELP><![CDATA[A more descriptive identifier (that does need to be unique) of a record/document that is used as a default search option along with the search key (that is unique and mostly shorter). It is up to 60 characters in length.]]></HELP>
+<!--FF80818132202C17013223D76B72002C-->  <AD_PROCESS_ID><![CDATA[FF8081813219E68E013219ECFE930004]]></AD_PROCESS_ID>
+<!--FF80818132202C17013223D76B72002C-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--FF80818132202C17013223D76B72002C-->  <AD_REFERENCE_ID><![CDATA[10]]></AD_REFERENCE_ID>
+<!--FF80818132202C17013223D76B72002C-->  <COLUMNNAME><![CDATA[Name]]></COLUMNNAME>
+<!--FF80818132202C17013223D76B72002C-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--FF80818132202C17013223D76B72002C-->  <FIELDLENGTH><![CDATA[60]]></FIELDLENGTH>
+<!--FF80818132202C17013223D76B72002C-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--FF80818132202C17013223D76B72002C-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--FF80818132202C17013223D76B72002C-->  <DEFAULTVALUE><![CDATA[@SQL=SELECT M_PRODUCT.NAME||' - '||MA_SEQUENCE.NAME||' - '||MA_SEQUENCE.SEQNO AS name FROM MA_SEQUENCEPRODUCT JOIN MA_SEQUENCE ON MA_SEQUENCE.MA_SEQUENCE_ID = MA_SEQUENCEPRODUCT.MA_SEQUENCE_ID LEFT JOIN M_PRODUCT ON MA_SEQUENCEPRODUCT.M_PRODUCT_ID = M_PRODUCT.M_PRODUCT_ID WHERE MA_SEQUENCEPRODUCT_ID = @MA_SEQUENCEPRODUCT_ID@]]></DEFAULTVALUE>
+<!--FF80818132202C17013223D76B72002C-->  <AD_ELEMENT_ID><![CDATA[469]]></AD_ELEMENT_ID>
+<!--FF80818132202C17013223D76B72002C--></AD_PROCESS_PARA>
+
+<!--FF80818132202C17013223D8B5BE0030--><AD_PROCESS_PARA>
+<!--FF80818132202C17013223D8B5BE0030-->  <AD_PROCESS_PARA_ID><![CDATA[FF80818132202C17013223D8B5BE0030]]></AD_PROCESS_PARA_ID>
+<!--FF80818132202C17013223D8B5BE0030-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--FF80818132202C17013223D8B5BE0030-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--FF80818132202C17013223D8B5BE0030-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--FF80818132202C17013223D8B5BE0030-->  <NAME><![CDATA[Production Type]]></NAME>
+<!--FF80818132202C17013223D8B5BE0030-->  <DESCRIPTION><![CDATA[A classification stating whether something has been created or used in the sequence.]]></DESCRIPTION>
+<!--FF80818132202C17013223D8B5BE0030-->  <HELP><![CDATA[Indicates if the product is used in the sequence or is generated. A positive production means that is an output product. So&nbsp;a negative productions refers to an input product.]]></HELP>
+<!--FF80818132202C17013223D8B5BE0030-->  <AD_PROCESS_ID><![CDATA[FF8081813219E68E013219ECFE930004]]></AD_PROCESS_ID>
+<!--FF80818132202C17013223D8B5BE0030-->  <SEQNO><![CDATA[30]]></SEQNO>
+<!--FF80818132202C17013223D8B5BE0030-->  <AD_REFERENCE_ID><![CDATA[17]]></AD_REFERENCE_ID>
+<!--FF80818132202C17013223D8B5BE0030-->  <AD_REFERENCE_VALUE_ID><![CDATA[800034]]></AD_REFERENCE_VALUE_ID>
+<!--FF80818132202C17013223D8B5BE0030-->  <COLUMNNAME><![CDATA[Productiontype]]></COLUMNNAME>
+<!--FF80818132202C17013223D8B5BE0030-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--FF80818132202C17013223D8B5BE0030-->  <FIELDLENGTH><![CDATA[60]]></FIELDLENGTH>
+<!--FF80818132202C17013223D8B5BE0030-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--FF80818132202C17013223D8B5BE0030-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--FF80818132202C17013223D8B5BE0030-->  <DEFAULTVALUE><![CDATA[+]]></DEFAULTVALUE>
+<!--FF80818132202C17013223D8B5BE0030-->  <AD_ELEMENT_ID><![CDATA[800345]]></AD_ELEMENT_ID>
+<!--FF80818132202C17013223D8B5BE0030--></AD_PROCESS_PARA>
+
+<!--FF8081813224247D0132246112F90130--><AD_PROCESS_PARA>
+<!--FF8081813224247D0132246112F90130-->  <AD_PROCESS_PARA_ID><![CDATA[FF8081813224247D0132246112F90130]]></AD_PROCESS_PARA_ID>
+<!--FF8081813224247D0132246112F90130-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--FF8081813224247D0132246112F90130-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--FF8081813224247D0132246112F90130-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--FF8081813224247D0132246112F90130-->  <NAME><![CDATA[Quantity]]></NAME>
+<!--FF8081813224247D0132246112F90130-->  <DESCRIPTION><![CDATA[The number of a certain item.]]></DESCRIPTION>
+<!--FF8081813224247D0132246112F90130-->  <HELP><![CDATA[The Quantity indicates the number of a specific product or item for this document.]]></HELP>
+<!--FF8081813224247D0132246112F90130-->  <AD_PROCESS_ID><![CDATA[FF8081813219E68E013219ECFE930004]]></AD_PROCESS_ID>
+<!--FF8081813224247D0132246112F90130-->  <SEQNO><![CDATA[40]]></SEQNO>
+<!--FF8081813224247D0132246112F90130-->  <AD_REFERENCE_ID><![CDATA[29]]></AD_REFERENCE_ID>
+<!--FF8081813224247D0132246112F90130-->  <COLUMNNAME><![CDATA[Qty]]></COLUMNNAME>
+<!--FF8081813224247D0132246112F90130-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--FF8081813224247D0132246112F90130-->  <FIELDLENGTH><![CDATA[40]]></FIELDLENGTH>
+<!--FF8081813224247D0132246112F90130-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--FF8081813224247D0132246112F90130-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--FF8081813224247D0132246112F90130-->  <DEFAULTVALUE><![CDATA[0]]></DEFAULTVALUE>
+<!--FF8081813224247D0132246112F90130-->  <AD_ELEMENT_ID><![CDATA[526]]></AD_ELEMENT_ID>
+<!--FF8081813224247D0132246112F90130--></AD_PROCESS_PARA>
+
+<!--FF808181324D007801324D4040870083--><AD_PROCESS_PARA>
+<!--FF808181324D007801324D4040870083-->  <AD_PROCESS_PARA_ID><![CDATA[FF808181324D007801324D4040870083]]></AD_PROCESS_PARA_ID>
+<!--FF808181324D007801324D4040870083-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--FF808181324D007801324D4040870083-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--FF808181324D007801324D4040870083-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--FF808181324D007801324D4040870083-->  <NAME><![CDATA[Date]]></NAME>
+<!--FF808181324D007801324D4040870083-->  <AD_PROCESS_ID><![CDATA[FF808181324D007801324D2AE1130066]]></AD_PROCESS_ID>
+<!--FF808181324D007801324D4040870083-->  <SEQNO><![CDATA[10]]></SEQNO>
+<!--FF808181324D007801324D4040870083-->  <AD_REFERENCE_ID><![CDATA[15]]></AD_REFERENCE_ID>
+<!--FF808181324D007801324D4040870083-->  <COLUMNNAME><![CDATA[Date]]></COLUMNNAME>
+<!--FF808181324D007801324D4040870083-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--FF808181324D007801324D4040870083-->  <FIELDLENGTH><![CDATA[19]]></FIELDLENGTH>
+<!--FF808181324D007801324D4040870083-->  <ISMANDATORY><![CDATA[Y]]></ISMANDATORY>
+<!--FF808181324D007801324D4040870083-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--FF808181324D007801324D4040870083-->  <AD_ELEMENT_ID><![CDATA[17ADA898A5534B858EC8BD7651492088]]></AD_ELEMENT_ID>
+<!--FF808181324D007801324D4040870083--></AD_PROCESS_PARA>
+
+<!--FF808181324D007801324D4137DF008A--><AD_PROCESS_PARA>
+<!--FF808181324D007801324D4137DF008A-->  <AD_PROCESS_PARA_ID><![CDATA[FF808181324D007801324D4137DF008A]]></AD_PROCESS_PARA_ID>
+<!--FF808181324D007801324D4137DF008A-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--FF808181324D007801324D4137DF008A-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--FF808181324D007801324D4137DF008A-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--FF808181324D007801324D4137DF008A-->  <NAME><![CDATA[Starting Time]]></NAME>
+<!--FF808181324D007801324D4137DF008A-->  <HELP><![CDATA[Start time in hours.]]></HELP>
+<!--FF808181324D007801324D4137DF008A-->  <AD_PROCESS_ID><![CDATA[FF808181324D007801324D2AE1130066]]></AD_PROCESS_ID>
+<!--FF808181324D007801324D4137DF008A-->  <SEQNO><![CDATA[20]]></SEQNO>
+<!--FF808181324D007801324D4137DF008A-->  <AD_REFERENCE_ID><![CDATA[24]]></AD_REFERENCE_ID>
+<!--FF808181324D007801324D4137DF008A-->  <COLUMNNAME><![CDATA[Starttime]]></COLUMNNAME>
+<!--FF808181324D007801324D4137DF008A-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--FF808181324D007801324D4137DF008A-->  <FIELDLENGTH><![CDATA[19]]></FIELDLENGTH>
+<!--FF808181324D007801324D4137DF008A-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--FF808181324D007801324D4137DF008A-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--FF808181324D007801324D4137DF008A-->  <AD_ELEMENT_ID><![CDATA[800364]]></AD_ELEMENT_ID>
+<!--FF808181324D007801324D4137DF008A--></AD_PROCESS_PARA>
+
+<!--FF808181324D007801324D418FD0008E--><AD_PROCESS_PARA>
+<!--FF808181324D007801324D418FD0008E-->  <AD_PROCESS_PARA_ID><![CDATA[FF808181324D007801324D418FD0008E]]></AD_PROCESS_PARA_ID>
+<!--FF808181324D007801324D418FD0008E-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--FF808181324D007801324D418FD0008E-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--FF808181324D007801324D418FD0008E-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--FF808181324D007801324D418FD0008E-->  <NAME><![CDATA[Ending Time]]></NAME>
+<!--FF808181324D007801324D418FD0008E-->  <HELP><![CDATA[End time in hours.]]></HELP>
+<!--FF808181324D007801324D418FD0008E-->  <AD_PROCESS_ID><![CDATA[FF808181324D007801324D2AE1130066]]></AD_PROCESS_ID>
+<!--FF808181324D007801324D418FD0008E-->  <SEQNO><![CDATA[30]]></SEQNO>
+<!--FF808181324D007801324D418FD0008E-->  <AD_REFERENCE_ID><![CDATA[24]]></AD_REFERENCE_ID>
+<!--FF808181324D007801324D418FD0008E-->  <COLUMNNAME><![CDATA[Endtime]]></COLUMNNAME>
+<!--FF808181324D007801324D418FD0008E-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--FF808181324D007801324D418FD0008E-->  <FIELDLENGTH><![CDATA[19]]></FIELDLENGTH>
+<!--FF808181324D007801324D418FD0008E-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--FF808181324D007801324D418FD0008E-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--FF808181324D007801324D418FD0008E-->  <AD_ELEMENT_ID><![CDATA[800353]]></AD_ELEMENT_ID>
+<!--FF808181324D007801324D418FD0008E--></AD_PROCESS_PARA>
+
+<!--FF80818132813610013281789D2E0088--><AD_PROCESS_PARA>
+<!--FF80818132813610013281789D2E0088-->  <AD_PROCESS_PARA_ID><![CDATA[FF80818132813610013281789D2E0088]]></AD_PROCESS_PARA_ID>
+<!--FF80818132813610013281789D2E0088-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--FF80818132813610013281789D2E0088-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--FF80818132813610013281789D2E0088-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--FF80818132813610013281789D2E0088-->  <NAME><![CDATA[Copy Attributes in Production Process ]]></NAME>
+<!--FF80818132813610013281789D2E0088-->  <AD_PROCESS_ID><![CDATA[FF8081813219E68E013219ECFE930004]]></AD_PROCESS_ID>
+<!--FF80818132813610013281789D2E0088-->  <SEQNO><![CDATA[50]]></SEQNO>
+<!--FF80818132813610013281789D2E0088-->  <AD_REFERENCE_ID><![CDATA[20]]></AD_REFERENCE_ID>
+<!--FF80818132813610013281789D2E0088-->  <COLUMNNAME><![CDATA[Copyattribute]]></COLUMNNAME>
+<!--FF80818132813610013281789D2E0088-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--FF80818132813610013281789D2E0088-->  <FIELDLENGTH><![CDATA[1]]></FIELDLENGTH>
+<!--FF80818132813610013281789D2E0088-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--FF80818132813610013281789D2E0088-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--FF80818132813610013281789D2E0088-->  <DEFAULTVALUE><![CDATA[Y]]></DEFAULTVALUE>
+<!--FF80818132813610013281789D2E0088-->  <AD_ELEMENT_ID><![CDATA[78D2DD1779FA4787B3C19558E2E65812]]></AD_ELEMENT_ID>
+<!--FF80818132813610013281789D2E0088--></AD_PROCESS_PARA>
+
+<!--FF8081813349BAC3013349D8EB61007D--><AD_PROCESS_PARA>
+<!--FF8081813349BAC3013349D8EB61007D-->  <AD_PROCESS_PARA_ID><![CDATA[FF8081813349BAC3013349D8EB61007D]]></AD_PROCESS_PARA_ID>
+<!--FF8081813349BAC3013349D8EB61007D-->  <AD_CLIENT_ID><![CDATA[0]]></AD_CLIENT_ID>
+<!--FF8081813349BAC3013349D8EB61007D-->  <AD_ORG_ID><![CDATA[0]]></AD_ORG_ID>
+<!--FF8081813349BAC3013349D8EB61007D-->  <ISACTIVE><![CDATA[Y]]></ISACTIVE>
+<!--FF8081813349BAC3013349D8EB61007D-->  <NAME><![CDATA[Product Category]]></NAME>
+<!--FF8081813349BAC3013349D8EB61007D-->  <DESCRIPTION><![CDATA[A classification of items based on similar characteristics or attributes.]]></DESCRIPTION>
+<!--FF8081813349BAC3013349D8EB61007D-->  <HELP><![CDATA[Identifies the category which this product belongs to.  Product categories are used for pricing.]]></HELP>
+<!--FF8081813349BAC3013349D8EB61007D-->  <AD_PROCESS_ID><![CDATA[FF8081813219E68E013219ECFE930004]]></AD_PROCESS_ID>
+<!--FF8081813349BAC3013349D8EB61007D-->  <SEQNO><![CDATA[25]]></SEQNO>
+<!--FF8081813349BAC3013349D8EB61007D-->  <AD_REFERENCE_ID><![CDATA[19]]></AD_REFERENCE_ID>
+<!--FF8081813349BAC3013349D8EB61007D-->  <COLUMNNAME><![CDATA[M_Product_Category_ID]]></COLUMNNAME>
+<!--FF8081813349BAC3013349D8EB61007D-->  <ISCENTRALLYMAINTAINED><![CDATA[Y]]></ISCENTRALLYMAINTAINED>
+<!--FF8081813349BAC3013349D8EB61007D-->  <FIELDLENGTH><![CDATA[32]]></FIELDLENGTH>
+<!--FF8081813349BAC3013349D8EB61007D-->  <ISMANDATORY><![CDATA[N]]></ISMANDATORY>
+<!--FF8081813349BAC3013349D8EB61007D-->  <ISRANGE><![CDATA[N]]></ISRANGE>
+<!--FF8081813349BAC3013349D8EB61007D-->  <AD_ELEMENT_ID><![CDATA[453]]></AD_ELEMENT_ID>
+<!--FF8081813349BAC3013349D8EB61007D--></AD_PROCESS_PARA>
+
+</data>
